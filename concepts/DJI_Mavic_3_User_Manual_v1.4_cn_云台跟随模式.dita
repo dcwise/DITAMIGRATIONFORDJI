@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept xml:lang="zh-CN" id="AB5A3AA4-21B3BF1-F21548A571AF489-3CD237">
+  <title>云台跟随模式</title>
+  <shortdesc>云台可工作于跟随模式和 FPV 模式，以适应不同的拍摄需求。</shortdesc>
+  <conbody>
+    <p>跟随模式：云台横滚方向保持水平。用户可远程控云台俯仰角度。此模式适用于拍摄稳定画面。</p>
+    <p>
+      <table>
+        <tgroup cols="1" colsep="1" rowsep="1">
+          <colspec colname="c1" align="left" />
+          <tbody>
+            <row>
+              <entry colname="c1">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic44_image002.png" />
+                </fig>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+ FPV 模式：飞行时，云台姿态运动会模拟第一人称飞行视角。</p>
+    <p>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic44_image004.png" /> 起飞前请将飞行器放置在平坦开阔的地面上，请勿在电源开启后碰撞云台。</p>
+    <p>
+      <fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic44_image006.png" />
+      </fig>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic44_image008.png" />云台含有精密部件，若受到碰撞或损伤，精密部件会损坏，可能会导致云台性能下降。请爱护相机云台免受物理损伤。</p>
+    <p>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic44_image008.png" />请保持云台清洁，避免云台接触沙石等异物，否则可能会造成云台活动受阻，影响其性能。</p>
+    <p>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic44_image008.png" />若将飞行器放置在凹凸不平的地面或草地上时地面物体碰到云台，或者云台受到过大的外力作用（例如被碰撞或被掰动）可能会导致云台电机进入保护状态。</p>
+    <p>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic44_image008.png" />请勿在相机云台上增加任何物体，否则可能会影响云台性能，甚至烧毁电机。</p>
+    <p>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic44_image008.png" />使用时先移除收纳保护罩再开机。储存或者运输途中，重新安装收纳保护罩以保护云台。</p>
+    <p>
+      <table>
+        <tgroup cols="1" colsep="1" rowsep="1">
+          <colspec colname="c1" align="left" />
+          <tbody>
+            <row>
+              <entry colname="c1">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic44_image002.png" />
+                </fig>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic44_image008.png" />在大雾或云中飞行时可致云台结露，导致临时故障。若出现此状况，云台干燥后即可恢复正常。</p>
+  </conbody>
+</concept>

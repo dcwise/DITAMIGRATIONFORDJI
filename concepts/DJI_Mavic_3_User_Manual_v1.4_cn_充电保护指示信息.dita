@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept xml:lang="zh-CN" id="AB5A4AD4-215B45B-4F11F215A87D525-A7475A">
+  <title>充电保护指示信息</title>
+  <shortdesc>电池 LED 灯可显示由于充电异常触发的电池保护的相关信息。</shortdesc>
+  <conbody>
+    <table>
+      <tgroup cols="6" colsep="1" rowsep="1">
+        <colspec colname="col1" />
+        <colspec colname="col2" />
+        <colspec colname="col3" />
+        <colspec colname="col4" />
+        <colspec colname="col5" />
+        <colspec colname="col6" />
+        <tbody>
+          <row>
+            <entry namest="col1" nameend="col6"> 充电指示灯 </entry>
+          </row>
+          <row>
+            <entry colname="col1"> LED1 </entry>
+            <entry colname="col2"> LED2 </entry>
+            <entry colname="col3"> LED3 </entry>
+            <entry colname="col4"> LED4 </entry>
+            <entry colname="col5"> 显示规则 </entry>
+            <entry colname="col6"> 保护项目 </entry>
+          </row>
+          <row>
+            <entry colname="col1">
+              <fig>
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic39_image002.png" />
+              </fig>
+            </entry>
+            <entry colname="col2">
+              <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic39_image004.png" />
+            </entry>
+            <entry colname="col3">
+              <fig>
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic39_image002.png" />
+              </fig>
+            </entry>
+            <entry colname="col4">
+              <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic39_image002.png" />
+            </entry>
+            <entry colname="col5"> LED2 每秒闪 2 次 </entry>
+            <entry colname="col6"> 充电电流过大 </entry>
+          </row>
+          <row>
+            <entry colname="col1">
+              <fig>
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic39_image002.png" />
+              </fig>
+            </entry>
+            <entry colname="col2">
+              <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic39_image004.png" />
+            </entry>
+            <entry colname="col3">
+              <fig>
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic39_image002.png" />
+              </fig>
+            </entry>
+            <entry colname="col4">
+              <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic39_image002.png" />
+            </entry>
+            <entry colname="col5"> LED2 每秒闪 3 次 </entry>
+            <entry colname="col6"> 充电短路 </entry>
+          </row>
+          <row>
+            <entry colname="col1">
+              <fig>
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic39_image002.png" />
+              </fig>
+            </entry>
+            <entry colname="col2">
+              <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic39_image002.png" />
+            </entry>
+            <entry colname="col3">
+              <fig>
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic39_image007.png" />
+              </fig>
+            </entry>
+            <entry colname="col4">
+              <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic39_image002.png" />
+            </entry>
+            <entry colname="col5"> LED3 每秒闪 2 次 </entry>
+            <entry colname="col6"> 充电过充导致电池电压过高 </entry>
+          </row>
+          <row>
+            <entry colname="col1">
+              <fig>
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic39_image009.png" />
+              </fig>
+            </entry>
+            <entry colname="col2">
+              <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic39_image009.png" />
+            </entry>
+            <entry colname="col3">
+              <fig>
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic39_image007.png" />
+              </fig>
+            </entry>
+            <entry colname="col4">
+              <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic39_image009.png" />
+            </entry>
+            <entry colname="col5"> LED3 每秒闪 3 次 </entry>
+            <entry colname="col6"> 充电器电压过高 </entry>
+          </row>
+          <row>
+            <entry colname="col1">
+              <fig>
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic39_image002.png" />
+              </fig>
+            </entry>
+            <entry colname="col2">
+              <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic39_image002.png" />
+            </entry>
+            <entry colname="col3">
+              <fig>
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic39_image002.png" />
+              </fig>
+            </entry>
+            <entry colname="col4">
+              <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic39_image007.png" />
+            </entry>
+            <entry colname="col5"> LED4 每秒闪 2 次 </entry>
+            <entry colname="col6"> 充电温度过低 </entry>
+          </row>
+          <row>
+            <entry colname="col1">
+              <fig>
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic39_image009.png" />
+              </fig>
+            </entry>
+            <entry colname="col2">
+              <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic39_image009.png" />
+            </entry>
+            <entry colname="col3">
+              <fig>
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic39_image009.png" />
+              </fig>
+            </entry>
+            <entry colname="col4">
+              <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic39_image007.png" />
+            </entry>
+            <entry colname="col5"> LED4 每秒闪 3 次 </entry>
+            <entry colname="col6"> 充电温度过高 </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <p>
+      <fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic39_image012.png" />
+      </fig>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic39_image012.png" />
+    </p>
+    <p>排除故障（充电电流过大、充电短路、充电过充导致电池电压过高、充电器电压过高）后，重 新拔插充电器恢复充电。如遇到充电温度异常，则等待充电温度恢复正常，电池将自动恢复充电， 无需重新拔插充电器。</p>
+  </conbody>
+</concept>

@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<task xml:lang="zh-CN" id="AA3AAD45-B45BF1F-4A852A1A6C985DD-ED21A2">
+  <title>相机界面</title>
+  <shortdesc>1 2 3 4 5 6 7</shortdesc>
+  <taskbody>
+    <context>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image014.png" />18</p>
+      <p>8</p>
+      <p>9</p>
+      <p>17 10</p>
+      <p>11</p>
+      <p>16 15 14 13 12</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>飞行挡位</cmd>
+        <info>
+          <p>普通挡：显示当前飞行挡位。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>飞行器状态指示栏</cmd>
+        <info>
+          <p>飞行中：显示飞行器的飞行状态以及各种警示信息。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>智能飞行电池信息栏</cmd>
+        <info>
+          <p>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image016.png" />24'17"：显示当前智能飞行电池电量百分比及剩余可飞行时间。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>图传信号强度</cmd>
+        <info>
+          <p>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image018.png" />：显示当前飞行器与遥控器之间的图传信号强度。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>视觉系统状态</cmd>
+        <info>
+          <p>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image020.png" />：图标左边部分表示水平全向视觉系统状态，右边部分表示上、下视觉系统状态。图标白色表示视觉系统工作正常，红色表示视觉系统关闭或工作异常，此时无法躲避障碍物。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>GNSS 状态</cmd>
+        <info>
+          <p>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image022.png" />20 ：用于显示 GNSS 信号强弱。点击可查看具体 GNSS 信号强度。当图标显示为白色时， 表示 GNSS 信号良好，可刷新返航点。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>系统设置</cmd>
+        <info>
+          <p>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image023.png" />：系统设置包括安全、操控、拍摄、图传和关于页面。</p>
+          <p>安全</p>
+          <p>辅助飞行：选择“绕行”或“刹停”后，表示打开上视、水平全向视觉系统，关闭后表示飞行器无避障功能。</p>
+          <p>显示雷达图：开启后，界面将显示实时障碍物检测雷达图。</p>
+          <p>虚拟护栏：设置飞行最大高度、最远距离、返航高度（默认 100 m）、更新返航点。传感器状态：查看 IMU 和指南针状态，如有异常请按提示校准。</p>
+          <p>电池：点击查看电池信息详情，包括电芯状态、电池序列号、电池循环次数以及生产日期。补光灯：可设置补光灯自动、打开或关闭。未起飞时请勿打开补光灯。</p>
+          <p>前机臂灯：可设置为打开或自动。自动模式下，相机拍摄过程中将熄灭前机臂灯，保障拍摄效果。</p>
+          <p>飞行解禁：点击查看飞行解禁相关信息。找飞机：利用地图查找飞行器位置。</p>
+          <p>高级设置：包括飞行器失联行为、空中紧急停桨设置以及 AirSense 开关。当遥控器失去信号时，飞行器失联行为可选择返航、降落或悬停。</p>
+          <p>空中紧急停桨设置为“仅故障时”表示仅当飞行器在空中检测到严重故障（如：空中受到撞击、飞行器不受控制急速上升或下降、飞行器姿态不受控制连续翻滚、电机堵转等）时，执行掰 杆动作才可以停止电机；“任意时刻”表示任何时候执行掰杆动作均可以停止电机。务必注意：空中停机将造成飞行器坠毁。</p>
+          <p>AirSense 开启后，DJI Fly 将在检测到附近空域有载人飞机时发出警示。使用 AirSense 前务必仔细阅读 DJI Fly App 内弹窗显示的《DJI AirSense 空中感知和预警系统使用条款》。请务必遵循当地法律法规使用
+ AirSense 功能。</p>
+          <p>操控</p>
+          <p>飞行器设置：设置单位。</p>
+          <p>云台设置：包括云台模式设置、云台高级设置、云台校准或控制云台回中或朝下。</p>
+          <p>遥控器设置：包括选择摇杆模式（日本手、美国手、中国手、自定义），遥控器自定义按键功能设置、以及遥控器校准入口。</p>
+          <p>室外飞行教学：点击观看飞行教学。</p>
+          <p>配对飞机：遥控器未与飞行器配对时，请点击配对。</p>
+          <p>拍摄</p>
+          <p>相机参数设置：当选择不同拍摄模式时，可设置参数有所不同。</p>
+          <p>通用设置：直方图、峰值等级、过曝提示、辅助线、白平衡等设置。</p>
+          <p>存储设置：可选择拍摄素材存储至 SD 卡或机身内部 SSD，SD 卡及机身存储格式化，以及录制视频时进行缓存开关、设置最大视频缓存容量。</p>
+          <p>重置相机参数：点击将相机参数恢复至出厂设置。</p>
+          <p>U 盘模式：Mavic 3 Cine 支持U 盘模式，使飞行器在低电量时也可进行数据拷贝。打开U 盘模式，然后开启飞行器以及连接电脑后即可进入 U 盘模式，此时可拷贝机身内部存储文件， 但无法访问
+ SD 卡内文件。</p>
+          <p>重启飞行器后连接 DJI Fly 通过 U
+ 盘模式开关退出。另外也可通过
+ DJI Assistant 2 退出当前</p>
+          <p>
+            <table>
+              <tgroup cols="1" colsep="1" rowsep="1">
+                <colspec colname="c1" align="left" />
+                <tbody>
+                  <row>
+                    <entry colname="c1">
+                      <fig>
+                        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image024.png" />
+                      </fig>
+                    </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image025.png" />U 盘模式，注意飞行器重启后仍为 U
+ 盘模式。</p>
+          <p>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image027.png" /> U 盘模式下飞行器与遥控器会断连，并且机臂灯将关闭，飞行器机身内风扇将停转。</p>
+          <p>
+            <fig>
+              <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image028.png" />
+            </fig>
+          </p>
+          <p>图传</p>
+          <p>图传清晰度：流畅
+ / 高清模式。</p>
+          <p>选择图传频段以及信道模式的切换方式。</p>
+          <p>关于</p>
+          <p>设备、固件、App、电池等信息。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>拍摄模式</cmd>
+        <info>
+          <p>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image030.png" /> 录像：普通及慢动作录像。普通模式下支持变焦。拍照：单拍、连拍、AEB 连拍、定时拍。</p>
+          <p>大师镜头：智能匹配人像、近景或远景三种飞行轨迹。延时摄影：自由、环绕、定向、轨迹。</p>
+          <p>全景：球形、180°、广角、竖拍。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>探索模式（28X）</cmd>
+        <info>
+          <p>
+            <fig>
+              <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image032.png" />
+            </fig>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image034.png" /> 长按打开探索模式可调节变焦。 1x 图标显示当前放大倍数，点击实现变焦。探索模式下， 偏航杆对应的飞行器旋转角速度会随着变焦倍数的增大而减小，以获得更平滑的画面。</p>
+          <p>AF / MF ：为对焦按钮，点击或长按图标可切换对焦方式并进行对焦。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>拍摄按键</cmd>
+        <info>
+          <p>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image036.png" />：点击该按键可触发相机拍照或开始 / 停止录像。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>回放</cmd>
+        <info>
+          <p>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image038.png" />：点击查看已拍摄视频及照片。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>相机档位切换</cmd>
+        <info>
+          <p>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image040.png" />：拍照模式下，支持切换 Auto 和 Pro 档，不同档位下可设置参数不同。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>拍摄参数</cmd>
+        <info>
+          <p>5.1K 50</p>
+          <p>RES&amp;FPS ：显示当前拍摄参数。点击可进入设置。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>存储信息栏</cmd>
+        <info>
+          <p>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image041.png" />1:30:30</p>
+          <p>Storage ：显示当前 SSD 或 SD 卡容量。点击可展开详情。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>飞行状态参数</cmd>
+        <info>
+          <p>
+            <b>D 80m </b>：显示飞行器与返航点水平方向的距离。<b>H 150m </b>：飞行器与返航点垂直方向的距离。<b>4.6m/s </b>：飞行器在水平方向的飞行速度。</p>
+          <p>
+            <b>3m/s </b>：飞行器在垂直方向的飞行速度。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>地图</cmd>
+        <info>
+          <p>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image043.png" /> ：点击可切换至姿态球，显示飞行器机头朝向、倾斜角度，遥控器、返航点位置等信息。</p>
+          <p>飞行器机头朝向</p>
+          <p>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image046.png" />遥控器方位</p>
+          <p>返航点</p>
+          <p>收起</p>
+          <p>飞行器倾斜角度切换为小地图</p>
+          <p>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image065.png" />切换为姿态球</p>
+        </info>
+      </step>
+      <step>
+        <cmd>自动起飞 / 降落 / 智能返航</cmd>
+        <info>
+          <p>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image067.png" /> / <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image069.png" /> : 点击展开控制面板，长按使飞行器自动起飞或降落。</p>
+          <p>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image071.png" /> : 点击该图标飞行器将即刻自动返航降落并关闭电机。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>返回</cmd>
+        <info>
+          <p>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image072.png" />: 轻触此按键，返回主页。</p>
+          <p>在相机界面中长按，唤出云台角度控制条，拖曳控制条则可控制云台俯仰角度。</p>
+          <p>
+            <table>
+              <tgroup cols="1" colsep="1" rowsep="1">
+                <colspec colname="c1" align="left" />
+                <tbody>
+                  <row>
+                    <entry colname="c1">
+                      <fig>
+                        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image073.png" />
+                      </fig>
+                    </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+ 点击屏幕可触发点对焦 / 点测光。在不同的对焦模式、曝光模式和测光模式下，点击屏幕将触发不同的对焦 / 测光显示情况。触发点测光后，长按屏幕会锁定当前曝光，再次长按屏幕或点击其它区域可解锁曝光。</p>
+          <p>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image075.png" /> 使用 DJI Fly App 前请确保设备电源充足。</p>
+          <p>
+            <fig>
+              <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image076.png" />
+            </fig>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image077.png" />使用 DJI Fly App 需要使用蜂窝移动数据，请联系您的移动设备数据提供商获取最新的数据流量资费标准。</p>
+          <p>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image078.png" />当您在手机上使用 DJI Fly App 时，请将注意力集中在操控飞行器上，切勿在飞行过程中接听来电， 收发短信或使用其他手机功能。</p>
+          <p>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image077.png" />在使用 DJI Fly App 期间，仔细阅读所有弹出的安全提示、警示信息以及免责声明。务必了解当地的相关法律法规。您将对所有违反当地法律法规的飞行行为负责。</p>
+        </info>
+        <substeps>
+          <substep>
+            <cmd>阅读并理解在使用自动起飞和降落时弹出的警示信息。</cmd>
+          </substep>
+          <substep>
+            <cmd>阅读并理解在设定超过高度限定范围时弹出的警示信息以及免责声明。</cmd>
+          </substep>
+          <substep>
+            <cmd>阅读并理解在切换飞行挡位时弹出的警示信息以及免责声明。</cmd>
+          </substep>
+          <substep>
+            <cmd>阅读并理解在禁飞区及禁飞区附近时弹出的警示信息以及免责声明。</cmd>
+          </substep>
+          <substep>
+            <cmd>阅读并理解使用智能飞行功能时弹出的警示信息以及免责声明。</cmd>
+          </substep>
+        </substeps>
+      </step>
+    </steps>
+    <result>
+      <p>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image079.png" />
+        </fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image080.png" />当 DJI Fly App 提示用户需降落飞行器时，务必及时将飞行器降落至安全地点。每次飞行前，务必根据 DJI Fly App 提供的飞行前检查列表进行各项检查。</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image078.png" />首次使用 DJI Fly App 时，App 将指引用户体验飞行教学功能，学习飞行器操控技巧。</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image081.png" />地图界面中使用的地图需从互联网下载。使用该功能前，建议将移动设备接入互联网以缓存地图。</p>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image073.png" />
+                  </fig>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic68_image082.png" />使用 DJI Fly App 前，您须同意 DJI Fly App 使用条款及 DJI 隐私政策。该使用条款及隐私政策限制了 DJI 的部分法律责任，请在 App 内仔细阅读。</p>
+    </result>
+  </taskbody>
+</task>

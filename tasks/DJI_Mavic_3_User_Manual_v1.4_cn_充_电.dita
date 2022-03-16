@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<task xml:lang="zh-CN" id="AB5A4145-3B5F215-47D1C2175A727EF-BA9ABB">
+  <title>充 电</title>
+  <shortdesc>每次使用智能飞行电池前，请务必充满电。智能飞行电池必须使用 DJI 官方提供的充电管家以及专用电源适配器进行充电。</shortdesc>
+  <taskbody>
+    <context>
+      <p>使用充电管家</p>
+      <p>Mavic 3 充电管家配合标配电源适配器使用，可连接三块
+ Mavic 3 智能飞行电池，并根据电池的</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image002.png" />剩余电量高低依次为电池充电。充满单块电池的时间大约为 1 小时 36 分钟。</p>
+      <p>
+        <table>
+          <tgroup cols="3" colsep="1" rowsep="1">
+            <colspec colname="col2" align="left" />
+            <colspec colname="col4" align="left" />
+            <colspec colname="col6" align="left" />
+            <tbody>
+              <row>
+                <entry morerows="3" align="left" colname="col2">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image012.png" />
+                  </fig>
+                </entry>
+                <entry colname="col4" />
+                <entry colname="col6" />
+              </row>
+              <row>
+                <entry morerows="1" align="left" colname="col4">
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image013.png" />
+                </entry>
+                <entry align="left" colname="col6">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image014.png" />
+                  </fig>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col6" />
+              </row>
+              <row>
+                <entry colname="col4" />
+                <entry colname="col6" />
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </p>
+      <p>1 2 3</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>状态指示灯</cmd>
+      </step>
+      <step>
+        <cmd>电池接口</cmd>
+      </step>
+      <step>
+        <cmd>电源接口</cmd>
+      </step>
+    </steps>
+    <result>
+      <p>充电步骤</p>
+      <ol>
+        <li>按图示方向将电池插入充电管家的电池接口，DJI 65W 便携充电器连接电源接口至交流电源<p>（100-240 V，50/60 Hz）。</p></li>
+        <li>充电管家将根据电池的电量高低轮流为电池充电。充电过程中，充电管家状态指示灯显示当前状态（参照下表了解详情），电池电量指示灯显示电量信息。充电完成后，请取下电池并断开电源连接。</li>
+      </ol>
+      <p>状态指示灯描述</p>
+      <table>
+        <tgroup cols="2" colsep="1" rowsep="1">
+          <colspec colname="col1" />
+          <colspec colname="col2" />
+          <tbody>
+            <row>
+              <entry colname="col1"> 闪灯方式 </entry>
+              <entry colname="col2"> 描述 </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 黄灯常亮 </entry>
+              <entry colname="col2"> 所有接口均未插入电池 </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 绿灯呼吸 </entry>
+              <entry colname="col2"> 正在充电 </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 绿灯常亮 </entry>
+              <entry colname="col2"> 所有电池电量充满 </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 黄灯闪烁 </entry>
+              <entry colname="col2"> 电池温度过高或过低（无须用户操作，等待电池温度恢复至正常范围时可继续充电） </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 红灯常亮 </entry>
+              <entry colname="col2"> 充电过流、输入电压异常或其它错误（需要重新插拔电池或充电器以恢复充电） </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image015.png" />
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image016.png" />
+        </fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image018.png" /> 充电管家仅适用于扩展充电接口，推荐使用 DJI 65W 便携充电器或 DJI 65W 车载充电器为充电管家供电。</p>
+      <p>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image019.png" />
+        </fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image016.png" />充电管家仅适用于BWX260-5000-15.4
+ 智能飞行电池充电。请勿使用充电管家为其他型号电池充电。使用时请将充电管家平稳放置，并注意绝缘及防火。</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image020.png" />请勿用手或其他物体触碰金属端子。</p>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image021.png" />
+                  </fig>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image019.png" />若金属端子附着异物，请用干布擦拭干净。</p>
+      <p>使用 DJI 65W 便携充电器</p>
+      <ol>
+        <li>连接便携充电器到交流电源（100-240 V，50/60 Hz；如果需要，请使用电源转换插头）。</li>
+        <li>在智能飞行电池关闭的状态下，连接飞行器与充电器。</li>
+        <li>充电状态下智能飞行电池电量指示灯将会循环闪烁，并指示当前电量。</li>
+        <li>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image023.png" />电量指示灯全部熄灭时表示智能飞行电池已充满。请断开飞行器和充电器，完成充电。</li>
+      </ol>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image025.png" />
+                  </fig>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </p>
+      <table>
+        <tgroup cols="1" colsep="1" rowsep="1">
+          <colspec colname="col1" />
+          <tbody>
+            <row>
+              <entry colname="col1">
+                <p>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image027.png" /> 飞行结束后智能飞行电池温度较高，须待智能飞行电池降至室温再进行充电。</p>
+                <p translate="no">智能飞行电池可允许充电温度范围为 5℃至 40℃，若电池的温度不在此范围，电池管理系统将禁止充电。最佳的充电温度范围为 25±3℃，在此温度范围内充电可延长电池的使用寿命。</p>
+                <p translate="no">每隔 3 个月左右重新充电一次以保持电池活性。</p>
+                <p>智能飞行电池必须使用 DJI 官方指定的充电器进行充电，对于使用非 DJI 官方提供的充电器进行充电所造成的一切后果，DJI 将不予负责。</p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1" translate="no">
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image029.png">
+                </image> 为安全起见，电池在运输过程中需保持低电量。运输前请进行放电，飞行至低电量（如 30% 以下）。 </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image031.png" />
+        </fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image031.png" />
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image031.png" />
+        </fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image023.png" />充电过程中电量指示灯指示如下。</p>
+      <table>
+        <tgroup cols="5" colsep="1" rowsep="1">
+          <colspec colname="col1" />
+          <colspec colname="col2" />
+          <colspec colname="col3" />
+          <colspec colname="col4" />
+          <colspec colname="col5" />
+          <tbody>
+            <row>
+              <entry colname="col1"> LED1 </entry>
+              <entry colname="col2"> LED2 </entry>
+              <entry colname="col3"> LED3 </entry>
+              <entry colname="col4"> LED4 </entry>
+              <entry colname="col5"> 电量 </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image033.png" />
+                </fig>
+              </entry>
+              <entry colname="col2">
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image034.png" />
+              </entry>
+              <entry colname="col3">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image036.png" />
+                </fig>
+              </entry>
+              <entry colname="col4">
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image036.png" />
+              </entry>
+              <entry colname="col5" translate="no"> 0% ＜电量≤ 50% </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image038.png" />
+                </fig>
+              </entry>
+              <entry colname="col2">
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image040.png" />
+              </entry>
+              <entry colname="col3">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image040.png" />
+                </fig>
+              </entry>
+              <entry colname="col4">
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image036.png" />
+              </entry>
+              <entry colname="col5" translate="no"> 50% ＜电量≤ 75% </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image038.png" />
+                </fig>
+              </entry>
+              <entry colname="col2">
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image040.png" />
+              </entry>
+              <entry colname="col3">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image040.png" />
+                </fig>
+              </entry>
+              <entry colname="col4">
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image038.png" />
+              </entry>
+              <entry colname="col5" translate="no"> 75% ＜电量＜ 100% </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image036.png" />
+                </fig>
+              </entry>
+              <entry colname="col2">
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image036.png" />
+              </entry>
+              <entry colname="col3">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image036.png" />
+                </fig>
+              </entry>
+              <entry colname="col4">
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic38_image036.png" />
+              </entry>
+              <entry colname="col5"> 充满 </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </result>
+  </taskbody>
+</task>

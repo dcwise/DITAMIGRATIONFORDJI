@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<task xml:lang="zh-CN" id="A73AA241-3B45F21-54A87D452A71AAF-1A495D">
+  <title>大师镜头</title>
+  <shortdesc>启动大师镜头</shortdesc>
+  <taskbody>
+    <context>
+    </context>
+    <steps>
+      <step>
+        <cmd>启动飞行器，使飞行器起飞至离地面
+ 2 m 以上。</cmd>
+        <info>
+          <p>
+            <table>
+              <tgroup cols="1" colsep="1" rowsep="1">
+                <colspec colname="c1" align="left" />
+                <tbody>
+                  <row>
+                    <entry colname="c1">
+                      <fig>
+                        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic30_image002.png" />
+                      </fig>
+                    </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>点击拍摄模式图标，选择大师镜头并阅读新手指导及注意事项。确保已充分了解并能安全使用该功能。</cmd>
+      </step>
+      <step>
+        <cmd>框选目标后，点击
+ Start，飞行器将自动飞行并拍摄视频，并在拍摄完成后返回至拍摄起始点。</cmd>
+        <info>
+          <p>
+            <table>
+              <tgroup cols="1" colsep="1" rowsep="1">
+                <colspec colname="c1" align="left" />
+                <tbody>
+                  <row>
+                    <entry colname="c1">
+                      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic30_image004.png" />
+                    </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>点击回放 <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic30_image006.png" /> 按可查看所拍摄的视频，并可直接编辑及分享至社交网络。</cmd>
+        <info>
+          <p>退出大师镜头</p>
+          <p>
+            <table>
+              <tgroup cols="1" colsep="1" rowsep="1">
+                <colspec colname="c1" align="left" />
+                <tbody>
+                  <row>
+                    <entry colname="c1">
+                      <fig>
+                        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic30_image007.png" />
+                      </fig>
+                    </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+ 短按遥控器上的急停按键或点击屏幕 <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic30_image009.png" /> 按键使飞行器紧急刹车并悬停。</p>
+          <p>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic30_image011.png" /> 请在开阔无遮挡、无障碍物的环境使用大师镜头功能，并时刻注意飞行器路径上是否有人、动物、建筑物等障碍物。当光照等环境条件满足视觉系统需求时，飞行器检测到障碍物将提前减速并刹车悬停，不会绕行。</p>
+          <p>
+            <fig>
+              <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic30_image012.png" />
+            </fig>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic30_image013.png" />
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic30_image014.png" />始终注意来自飞行器四周的物体并通过手动操作来避免事故（如碰撞）及对飞行器的遮挡。在以下场景下视觉系统无法正常工作，不建议使用大师镜头：</p>
+        </info>
+        <substeps>
+          <substep>
+            <cmd>当被拍摄物体被长时间遮挡或位于视线外时；</cmd>
+          </substep>
+          <substep>
+            <cmd>当被拍摄物体与周围的环境颜色或图案非常相近时；</cmd>
+          </substep>
+          <substep>
+            <cmd>当被拍摄物体位于空中时；</cmd>
+          </substep>
+          <substep>
+            <cmd>当被拍摄物体以较快速度移动时；</cmd>
+          </substep>
+          <substep>
+            <cmd>在特别暗（光照小于 300 lux）或者特别亮（光照大于 10,000 lux）的环境。</cmd>
+          </substep>
+        </substeps>
+      </step>
+    </steps>
+    <result>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic30_image014.png" />请不要在靠近建筑物、有遮挡等 GNSS
+ 信号不佳的地点使用大师镜头，否则可能导致飞行器飞行轨迹不稳定等意外情况发生。</p>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic30_image015.png" />
+                  </fig>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic30_image016.png" />用户在使用大师镜头功能时，请务必遵守当地的法律法规对隐私权的规定。</p>
+    </result>
+  </taskbody>
+</task>

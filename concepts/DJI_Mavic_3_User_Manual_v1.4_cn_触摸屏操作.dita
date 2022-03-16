@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept xml:lang="zh-CN" id="A75A3AA4-2415B51-FA87B525A175A79-998337">
+  <title>触摸屏操作</title>
+  <conbody>
+    <p>
+      <table>
+        <tgroup cols="1" colsep="1" rowsep="1">
+          <colspec colname="c1" align="left" />
+          <tbody>
+            <row>
+              <entry colname="c1">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic53_image017.png" />
+                </fig>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+ 首页</p>
+    <p>顶部菜单栏显示时间、网络连接状态以及遥控器电量。</p>
+    <p>预装 DJI Fly、图库、文件、浏览器、设置、功能指南等应用程序。其中设置可进行网络、蓝牙、显示、声音等系统设置。功能指南可快速了解遥控器按键及指示灯信息。</p>
+    <p>手势操作</p>
+  </conbody>
+</concept>

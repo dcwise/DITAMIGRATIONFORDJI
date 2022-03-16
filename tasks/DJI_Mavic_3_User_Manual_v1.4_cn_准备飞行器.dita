@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<task xml:lang="zh-CN" id="A453AD42-4145B45-112154A87915525-17D1DA">
+  <title>准备飞行器</title>
+  <taskbody>
+    <steps>
+      <step>
+        <info>
+          <table>
+            <tgroup cols="1" colsep="1" rowsep="1">
+              <colspec colname="c1" align="left" />
+              <tbody>
+                <row>
+                  <entry colname="c1">
+                    <fig>
+                      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic7_image002.png" />
+                    </fig>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+ 移除收纳保护罩。</info>
+      </step>
+      <step>
+        <cmd>首次使用需给智能飞行电池充电以唤醒电池。使用标配充电器，连接飞行器 USB-C 接口充电。开始充电即可唤醒电池，完全充满约需时 1 小时 36 分。</cmd>
+        <info>
+          <p>
+            <table>
+              <tgroup cols="1" colsep="1" rowsep="1">
+                <colspec colname="c1" align="left" />
+                <tbody>
+                  <row>
+                    <entry colname="c1">
+                      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic7_image004.png" />
+                    </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>展开飞行器。首先展开前机臂，然后展开后机臂。</cmd>
+      </step>
+    </steps>
+    <result>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic7_image010.png" />
+                  </fig>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic7_image012.png" /> 务必首先展开前机臂，再展开后机臂。</p>
+      <p>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic7_image014.png" />
+        </fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic7_image014.png" />
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic7_image014.png" />开启飞行器电源之前，确保收纳保护罩已移除、前后机臂均已展开，以免影响飞行器自检。不使用飞行器时，建议安装收纳保护罩。</p>
+      <p>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic7_image015.png" />
+        </fig>
+      </p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic7_image014.png" />
+      </p>
+    </result>
+  </taskbody>
+</task>

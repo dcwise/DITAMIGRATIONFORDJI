@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<task xml:lang="zh-CN" id="AA41545B-41154A7-D2A741754873953-53B1F6">
+  <title>使用智能飞行电池</title>
+  <shortdesc>查看电量</shortdesc>
+  <taskbody>
+    <context>
+      <p>在智能飞行电池关闭状态下，短按电池开关一次，可查看当前电量。</p>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic37_image002.png" />
+                  </fig>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </p>
+      <p>LED4</p>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic37_image004.png" />
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </p>
+      <p>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic37_image006.png" />
+        </fig>
+      </p>
+      <table>
+        <tgroup cols="5" colsep="1" rowsep="1">
+          <colspec colname="col1" />
+          <colspec colname="col2" />
+          <colspec colname="col3" />
+          <colspec colname="col4" />
+          <colspec colname="col5" />
+          <tbody>
+            <row>
+              <entry colname="col1"> LED1 </entry>
+              <entry colname="col2"> LED2 </entry>
+              <entry colname="col3"> LED3 </entry>
+              <entry colname="col4"> LED4 </entry>
+              <entry colname="col5"> 电量 </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic37_image008.png" />
+              </entry>
+              <entry colname="col2">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic37_image008.png" />
+                </fig>
+              </entry>
+              <entry colname="col3">
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic37_image010.png" />
+              </entry>
+              <entry colname="col4">
+              </entry>
+              <entry colname="col5" translate="no"> 电量 ≥ 88% </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic37_image008.png" />
+                </fig>
+              </entry>
+              <entry colname="col2">
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic37_image008.png" />
+              </entry>
+              <entry colname="col3">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic37_image008.png" />
+                </fig>
+              </entry>
+              <entry colname="col4">
+              </entry>
+              <entry colname="col5" translate="no"> 75% ≤ 电量＜ 88% </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic37_image010.png" />
+              </entry>
+              <entry colname="col2">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic37_image010.png" />
+                </fig>
+              </entry>
+              <entry colname="col3">
+              </entry>
+              <entry colname="col4">
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic37_image013.png" />
+              </entry>
+              <entry colname="col5" translate="no"> 63% ≤ 电量＜ 75% </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic37_image010.png" />
+                </fig>
+              </entry>
+              <entry colname="col2">
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic37_image010.png" />
+              </entry>
+              <entry colname="col3">
+              </entry>
+              <entry colname="col4">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic37_image013.png" />
+                </fig>
+              </entry>
+              <entry colname="col5" translate="no"> 50% ≤ 电量＜ 63% </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic37_image010.png" />
+              </entry>
+              <entry colname="col2">
+              </entry>
+              <entry colname="col3">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic37_image015.png" />
+                </fig>
+              </entry>
+              <entry colname="col4">
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic37_image013.png" />
+              </entry>
+              <entry colname="col5" translate="no"> 38% ≤ 电量＜ 50% </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic37_image008.png" />
+                </fig>
+              </entry>
+              <entry colname="col2">
+              </entry>
+              <entry colname="col3">
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic37_image017.png" />
+              </entry>
+              <entry colname="col4">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic37_image019.png" />
+                </fig>
+              </entry>
+              <entry colname="col5" translate="no"> 25% ≤ 电量＜ 38% </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2">
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic37_image017.png" />
+              </entry>
+              <entry colname="col3">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic37_image017.png" />
+                </fig>
+              </entry>
+              <entry colname="col4">
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic37_image019.png" />
+              </entry>
+              <entry colname="col5" translate="no"> 13% ≤ 电量＜ 25% </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic37_image015.png" />
+                </fig>
+              </entry>
+              <entry colname="col3">
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic37_image015.png" />
+              </entry>
+              <entry colname="col4">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic37_image013.png" />
+                </fig>
+              </entry>
+              <entry colname="col5" translate="no"> 0% ≤ 电量＜ 13% </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic37_image021.png" />
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic37_image023.png" />
+        </fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic37_image025.png" />
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic37_image027.png" />开启 / 关闭</p>
+      <p>短按电池开关一次，再长按电池开关 2 秒以上，即可开启 / 关闭智能飞行电池。电池开启时， 电量指示灯显示当前电池电量；电池关闭后，指示灯均熄灭。</p>
+      <p>低温使用注意事项</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>在低温环境（-10℃至 5℃）下使用电池，请务必保证电池满电。电池工作在低温环境下放电能力将降低，请先悬停飞行器以加热电池。</cmd>
+      </step>
+      <step>
+        <cmd>在 -10℃以下的环境下无法使用电池飞行。</cmd>
+      </step>
+      <step>
+        <cmd>当 DJI Fly App 提示功率不足时建议立刻停止飞行，待电池温度升高或充满电后再飞行。</cmd>
+      </step>
+      <step>
+        <cmd>在低温环境下，建议在飞行前将电池预热至 5℃以上，预热至 20℃以上更佳。</cmd>
+      </step>
+      <step>
+        <cmd>在低温环境下，由于电池输出功率限制，飞行器抗风能力将减小。请小心操作。</cmd>
+      </step>
+      <step>
+        <cmd>低温高原环境下飞行需格外谨慎。</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

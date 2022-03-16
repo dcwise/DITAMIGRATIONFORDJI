@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept xml:lang="zh-CN" id="AA34241B-5B51548-7A15525A41A8C77-12C3B2">
+  <title>拆卸电池</title>
+  <shortdesc>按压电池两侧卡扣纹理部分后取出电池。</shortdesc>
+  <conbody>
+    <p>
+      <table>
+        <tgroup cols="1" colsep="1" rowsep="1">
+          <colspec colname="c1" align="left" />
+          <tbody>
+            <row>
+              <entry colname="c1">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic41_image003.png" />
+                </fig>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <p>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic41_image005.png" /> 请勿在电源开启的情况下拆、装电池。确保电池安装到位。</p>
+    <p>
+      <fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic41_image006.png" />
+      </fig>
+    </p>
+  </conbody>
+</concept>

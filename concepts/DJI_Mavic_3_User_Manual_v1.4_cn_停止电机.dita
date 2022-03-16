@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept xml:lang="zh-CN" id="A75AD44B-4B51215-25A1A3D285B6EB9-218E2C">
+  <title>停止电机</title>
+  <shortdesc>电机起转后，有两种停机方式：</shortdesc>
+  <conbody>
+    <p>方法一：飞行器着地之后，将油门杆推到最低的位置并保持，3 秒后电机停止。</p>
+    <p>方法二：飞行器着地之后，先将油门杆推到最低位置①，然后执行掰杆动作②，电机将立即停止。停止后松开摇杆。</p>
+    <p>
+      <fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic77_image002.png" />
+      </fig>
+    </p>
+    <p id="_bookmark21">
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic77_image003.png" />
+      <fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic77_image005.png" />
+      </fig>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic77_image007.png" />
+      <fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic77_image009.png" />
+      </fig>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic77_image011.png" />
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic77_image013.png" />或</p>
+    <p>方法一 方法二</p>
+  </conbody>
+</concept>

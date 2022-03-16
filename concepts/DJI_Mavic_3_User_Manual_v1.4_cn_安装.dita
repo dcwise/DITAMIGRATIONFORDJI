@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept xml:lang="zh-CN" id="AA3A4D15-43BF1F1-54AD15175E57E81-87F23B">
+  <title>安装</title>
+  <shortdesc>将带标记的螺旋桨安装至带有标记的电机桨座上。将桨帽嵌入电机桨座并按压到底，沿锁紧方向旋转螺旋桨到底，松手后螺旋桨将弹起锁紧。使用同样的方法安装不带标记的螺旋桨至不带标记的电机桨座上。</shortdesc>
+  <conbody>
+    <p>
+      <table>
+        <tgroup cols="3" colsep="1" rowsep="1">
+          <colspec colname="col2" align="left" />
+          <colspec colname="col4" align="left" />
+          <colspec colname="col6" align="left" />
+          <tbody>
+            <row>
+              <entry morerows="3" align="left" colname="col2">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic34_image004.png" />
+                </fig>
+              </entry>
+              <entry colname="col4" />
+              <entry colname="col6" />
+            </row>
+            <row>
+              <entry align="left" colname="col4">
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic34_image005.png" />
+              </entry>
+              <entry morerows="1" align="left" colname="col6">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic34_image006.png" />
+                </fig>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col4" />
+            </row>
+            <row>
+              <entry colname="col4" />
+              <entry colname="col6" />
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+  </conbody>
+</concept>

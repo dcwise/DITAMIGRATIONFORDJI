@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept xml:lang="zh-CN" id="A3A4A1B4-53B4F11-21587A12A475948-64EA68">
+  <title>相机概述</title>
+  <shortdesc>主相机哈苏
+ L2D-20c 采用 4/3 CMOS，有效像素 2000 万，等效焦距为 24 mm，支持原生</shortdesc>
+  <conbody>
+    <p>12.8 档动态范围和
+ f/2.8 至 f/11 可变光圈，可稳定拍摄
+ 5.1K 50fps/DCI 4K 120fps 的
+ Apple ProRes 422 HQ 格式以及
+ H.264/H.265 格式超高清视频。支持拍摄 10 bit D-Log 视频。摄影距离为 1 m 至无穷远。</p>
+    <p>
+      <table>
+        <tgroup cols="1" colsep="1" rowsep="1">
+          <colspec colname="c1" align="left" />
+          <tbody>
+            <row>
+              <entry colname="c1">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic46_image001.png" />
+                </fig>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+ 长焦相机采用 1/2 英寸 CMOS，有效像素 1200 万，等效焦距为 162 mm, 镜头光圈为 f/4.4，摄影距离为 3
+ m 至无穷远，可捕捉最高 28 倍变焦影像。</p>
+    <p>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic46_image003.png" /> 请在标称的温湿度范围内使用及保存相机，以保持相机镜头良好的性能。</p>
+    <p>
+      <fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic46_image004.png" />
+      </fig>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic46_image005.png" />对于镜头表面的脏污或灰尘，建议使用专业镜头清洁工具清洁镜头，以免损伤镜头或对画质产生影响。</p>
+    <p>
+      <table>
+        <tgroup cols="1" colsep="1" rowsep="1">
+          <colspec colname="c1" align="left" />
+          <tbody>
+            <row>
+              <entry colname="c1">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic46_image006.png" />
+                </fig>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic46_image007.png" />确保相机无任何遮挡覆盖，否则高温可能导致相机损坏，甚至烫伤您或他人。</p>
+  </conbody>
+</concept>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept xml:lang="zh-CN" id="AB53A42B-45B4511-54A1CA747A2C1A3-5B1319">
+  <title>&#x1; &#x1; &#x1;	/ /</title>
+  <conbody>
+    <p>
+      <fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic58_image002.png" />
+      </fig>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic58_image003.png" />
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic58_image005.png" />左 右</p>
+    <p>左转 右转</p>
+    <fig>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic58_image006.png" />
+    </fig>
+    <p>中国手（Mode 3）</p>
+    <p>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic58_image008.png" />左摇杆 <sub>前</sub></p>
+    <fig>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic58_image011.png" />
+    </fig>
+    <p>后</p>
+    <p>右摇杆</p>
+    <p>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic58_image013.png" />
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic58_image015.png" />上升</p>
+    <p>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic58_image017.png" />下降</p>
+  </conbody>
+</concept>

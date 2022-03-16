@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<task xml:lang="zh-CN" id="A744434F-1F21548-7551A6599799F95-4BDD25">
+  <title>准备遥控器</title>
+  <shortdesc>请按以下步骤准备 DJI RC Pro 遥控器。</shortdesc>
+  <taskbody>
+    <context>
+    </context>
+    <steps>
+      <step>
+        <cmd>使用标配充电器，连接遥控器 USB-C 接口充电以唤醒电池。</cmd>
+        <info>
+          <p>
+            <table>
+              <tgroup cols="1" colsep="1" rowsep="1">
+                <colspec colname="c1" align="left" />
+                <tbody>
+                  <row>
+                    <entry colname="c1">
+                      <fig>
+                        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic8_image003.png" />
+                      </fig>
+                    </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>取出位于摇杆收纳槽的摇杆，安装至遥控器。</cmd>
+      </step>
+      <step>
+        <cmd>展开天线。</cmd>
+      </step>
+      <step>
+        <info>
+          <table>
+            <tgroup cols="3" colsep="1" rowsep="1">
+              <colspec colname="col2" />
+              <colspec colname="col4" />
+              <colspec colname="col6" />
+              <tbody>
+                <row>
+                  <entry morerows="2" align="left" colname="col2">
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic8_image007.png" />
+                  </entry>
+                  <entry align="left" colname="col4">
+                    <fig>
+                      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic8_image008.png" />
+                    </fig>
+                  </entry>
+                  <entry morerows="1" align="left" colname="col6">
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic8_image009.png" />
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col4" />
+                </row>
+                <row>
+                  <entry colname="col4" />
+                  <entry colname="col6" />
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+ 全新的遥控器需要激活才能使用。短按一次，再长按电源按键开启遥控器，根据屏幕提示激活遥控器。</info>
+      </step>
+    </steps>
+    <result>
+      <p>请按以下步骤准备 RC-N1 遥控器。</p>
+      <ol>
+        <li>取出位于摇杆收纳槽的摇杆，安装至遥控器。</li>
+        <li>拉伸移动设备支架，并取出遥控器连接线手机端口（默认安装 Lightning 接口遥控器转接线， 可根据移动设备接口类型更换相应的
+ Micro USB 接口、USB-C 接口遥控器转接线）。将移动设备放置于支架后，将遥控器连接线插入移动设备。确保移动设备嵌入凹槽内，放置稳固。</li>
+      </ol>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic8_image015.png" />
+                  </fig>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic8_image017.png" /> 连接安卓手机时，当系统弹出 USB 连接方式选项，请选择“仅充电”。选择其它选项有可能导致连接失败。</p>
+      <p>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic8_image018.png" />
+        </fig>
+      </p>
+    </result>
+  </taskbody>
+</task>

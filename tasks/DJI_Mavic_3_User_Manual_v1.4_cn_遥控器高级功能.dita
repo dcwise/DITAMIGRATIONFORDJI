@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<task xml:lang="zh-CN" id="A7BA3A4D-445BF11-F5A75AA95D47542-7162ED">
+  <title>遥控器高级功能</title>
+  <shortdesc>指南针校准</shortdesc>
+  <taskbody>
+    <context>
+      <p>在强干扰或磁场区域使用遥控器，可能出现遥控器指南针需要校准的情况，此时系统将会弹出校准提示。请按照系统提示进行校准。其它情况，可按照以下步骤进行指南针校准：</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>开启遥控器，进入主页。</cmd>
+      </step>
+      <step>
+        <cmd>选择设置，下拉选择指南针，点击进入指南针校准。</cmd>
+      </step>
+      <step>
+        <cmd>根据屏幕动画提示，翻转遥控器。</cmd>
+      </step>
+      <step>
+        <cmd>屏幕提示“校准成功”，则遥控器指南针校准成功。</cmd>
+      </step>
+    </steps>
+    <result>
+      <p>HDMI 设置</p>
+      <p>将遥控器通过 HDMI 接口连接至显示屏后，可将遥控器界面投放至显示屏查看。在 HDMI 设置页面中，可设置分辨率，入口方式为：设置 -&gt; 显示 -&gt; 高级 -&gt;HDMI。</p>
+      <p>RC-N1</p>
+      <p>RC-N1 遥控器配合
+ Mavic 3 飞行器，可达到
+ O3+ 图传标准，配合完备的功能按键可在最大
+ 15 km（FCC 合规版本，无遮挡无干扰环境）通信距离内完成飞行器与相机的操作与设置，并可通过 DJI Fly App 在移动设备实时显示高清画面。伸缩式移动设备支架可稳定放置移动设备，可拆卸设计的摇杆使遥控器更方便收纳。</p>
+      <p>无干扰无遮挡环境下，可以保证流畅的
+ 1080p 60fps 高清图传（视手机性能而定），同时支持 2.4 GHz 和
+ 5.8 GHz 双频段，并通过智能算法自行调整。</p>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic56_image002.png" />
+                  </fig>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+ 遥控器内置 5200 mAh、18.72 Wh 电池，最长工作时间约为 6 小时。具备给移动设备充电功能，
+ 充电能力为 500 mA@5 V。连接安卓设备时，可直接为安卓设备充电；连接 iOS 设备时，若
+ DJI Fly App 开启允许充电功能（默认关闭），则可为 iOS 设备充电，在遥控器重启后需要重新打开该功能。</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic56_image004.png" /> 合规版本：遥控器符合当地标准。</p>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic56_image002.png" />
+                  </fig>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic56_image006.png" />
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic56_image006.png" />操控模式：遥控器根据操控习惯分为美国手、日本手和中国手，也可以在 DJI Fly App 中自定义。建议初学者使用美国手作为操控方式。</p>
+    </result>
+  </taskbody>
+</task>

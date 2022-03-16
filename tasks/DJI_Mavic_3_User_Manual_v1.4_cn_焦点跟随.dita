@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<task xml:lang="zh-CN" id="AB5AD215-4B4F1F1-5487C52741A9A7B-761C05">
+  <title>焦点跟随</title>
+  <shortdesc>焦点跟随包含聚焦 2.0、兴趣点环绕 3.0 以及智能跟随 5.0 三种智能功能。</shortdesc>
+  <taskbody>
+    <context>
+      <p>聚焦
+ 2.0</p>
+      <p>飞行器停留在当前位置不自主飞行，仅机头以及云台相机跟随目标移动。支持静止和动态目标</p>
+      <p>（动态目标特指人、车、船）。用户打杆可以控制飞行器移动：横滚杆控制飞行器围绕目标旋转， 俯仰杆控制飞行器靠近或远离目标，油门杆控制飞行器高度，偏航杆控制构图。</p>
+      <p>聚焦模式下，当避障行为设置为绕行或刹停且光照等环境条件满足视觉系统需求时，飞行器检测到障碍物时表现均为刹停。运动挡时无避障。</p>
+      <p>兴趣点环绕 3.0</p>
+      <p>飞行器以设定半径和速度环绕目标飞行，支持静止和动态目标（动态目标特指人、车、船）。环绕飞行速度会根据当前环绕半径和用户设定动态变化，普通、运动和平稳挡位下的最大飞行速度保持一致，最大可达 15m/s。用户打杆可以控制飞行器移动：横滚杆控制飞行器环绕速度， 俯仰杆控制飞行器靠近或远离目标，油门杆控制飞行器高度，偏航杆控制构图。</p>
+      <p>当光照等环境条件满足视觉系统需求时，障碍物绕行在兴趣点环绕模式保持开启，与飞行档位和避障行为设置无关。</p>
+      <p>智能跟随 5.0</p>
+      <p>智能跟随 5.0 分为追踪与平行两种跟随模式。支持的目标类型为人、车、船。普通、运动和平</p>
+      <p>稳挡位下的最大飞行速度保持一致，前后飞行为
+ 12 m/s, 左右飞行为 15 m/s。用户打杆可以控制飞行器移动：横滚杆控制飞行器围绕目标旋转，俯仰杆控制飞行器靠近或远离目标，油门杆控制飞行器高度，偏航杆控制构图。</p>
+      <p>障碍物绕行在智能跟随模式保持开启，与飞行挡位和避障行为设置无关。</p>
+      <p>追踪：飞行器与目标保持一定的距离和高度，并与目标的运动方向保持一定方向飞行。追踪模 式共有八种跟随方向可以选择，分别为：前、后、左、右、前左、前右、后左、后右，默认为 后方跟随。设定的跟随方向，只在目标运动方向比较稳定时生效。目标运动方向不稳定时，飞 行器将保持一定的距离和高度进行跟随。跟随开始后，也可通过跟随方向选择圆盘更改跟随方向。</p>
+      <p>平行：飞行器与目标保持一定的距离和高度，并与目标保持开始跟随时的地理方位角度飞行。</p>
+      <p>智能跟随的目标为人时，支持飞行器与目标的水平距离为
+ 4-20 m，高度为 2-20 m（推荐的水平距离为 5-10 m, 高度为 2-10 m）。目标为车/ 船时， 支持飞行器与目标的水平距离为 6-100 m， 高度为 6-100 m（推荐的水平距离为 20-50 m, 高度为 10-50 m）。如果开始跟随时，飞行器与目标的水平距离或高度不在支持的范围内，飞行器将自主飞行到支持的范围内。飞行器与目标的水平距离和高度在推荐范围内时，可获得更好的跟随效果。</p>
+      <p>启动焦点跟随</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic29_image002.png" />启动飞行器，使飞行器起飞。</cmd>
+      </step>
+      <step>
+        <cmd>在 DJI Fly 相机界面画框选择目标，或在操控界面打开“目标扫描”开关后，点击自动识别的目标，即可进入焦点跟随。默认进入聚焦模式，可以通过屏幕中间的模式切换按钮，切换至智能跟随或兴趣点环绕。点击 GO 开始飞行。支持在 2 倍以内变焦下使用焦点跟随。如果变焦倍数过大影响到目标识别，飞行器将限制变焦倍数。</cmd>
+        <info>
+          <p>
+            <table>
+              <tgroup cols="1" colsep="1" rowsep="1">
+                <colspec colname="c1" align="left" />
+                <tbody>
+                  <row>
+                    <entry colname="c1">
+                      <fig>
+                        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic29_image027.png" />
+                      </fig>
+                    </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>在智能跟随追踪模式中，可在方向选择圆盘中选择跟随方向。方向选择圆盘在长时间无操作时会自动收起，也可点击画面其他部分收起圆盘。在方向选择圆盘收起后，可左右滑动模式图标切换追踪和平行子模式。切换到追踪模式时，跟随方向重置为后方。</cmd>
+        <info>
+          <p>
+            <table>
+              <tgroup cols="1" colsep="1" rowsep="1">
+                <colspec colname="c1" align="left" />
+                <tbody>
+                  <row>
+                    <entry colname="c1">
+                      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic29_image045.png" />
+                    </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>点击拍摄按键可拍照或录像。点击回放按键可查看所拍摄素材。</cmd>
+        <info>
+          <p>退出焦点跟随</p>
+          <p>
+            <table>
+              <tgroup cols="1" colsep="1" rowsep="1">
+                <colspec colname="c1" align="left" />
+                <tbody>
+                  <row>
+                    <entry colname="c1">
+                      <fig>
+                        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic29_image046.png" />
+                      </fig>
+                    </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+ 短按遥控器急停按键或点击屏幕上的 Stop 退出焦点跟随。</p>
+          <p>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic29_image048.png" /> 飞行器无法避开运动中的人、动物、车等，请避免在此类场景中使用焦点跟随。</p>
+          <p>
+            <table>
+              <tgroup cols="1" colsep="1" rowsep="1">
+                <colspec colname="c1" align="left" />
+                <tbody>
+                  <row>
+                    <entry colname="c1">
+                      <fig>
+                        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic29_image046.png" />
+                      </fig>
+                    </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic29_image049.png" />
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic29_image050.png" />飞行器无法避开细小障碍物（如电线或细小树枝）或透明物体（如玻璃），请注意避免在此类场景使用焦点跟随。</p>
+          <p>
+            <fig>
+              <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic29_image052.png" />
+            </fig>
+          </p>
+          <p>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic29_image054.png" />
+            <fig>
+              <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic29_image054.png" />
+            </fig>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic29_image056.png" /> 时刻准备在紧急情况下手动控制飞行器或点击屏幕上的 Stop。在以下场景需谨慎使用焦点跟随：</p>
+        </info>
+        <substeps>
+          <substep>
+            <cmd>被跟随物体在非水平地面上移动；</cmd>
+          </substep>
+          <substep>
+            <cmd>被跟随物体在移动时发生大幅度的形变；</cmd>
+          </substep>
+          <substep>
+            <cmd>被跟随物体被长时间遮挡或位于视线外；</cmd>
+          </substep>
+          <substep>
+            <cmd>被跟随物体在积雪覆盖的区域；</cmd>
+          </substep>
+          <substep>
+            <cmd>被跟随物体与周围环境颜色或图案非常相近；</cmd>
+          </substep>
+          <substep>
+            <cmd>
+              <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic29_image054.png" />环境特别暗（光照小于 300 lux）或者特别亮（光照大于 10，000 lux）时。用户在使用焦点跟随模式时，请务必遵守当地的法律法规对隐私权的规定。</cmd>
+          </substep>
+        </substeps>
+      </step>
+    </steps>
+    <result>
+      <p>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic29_image054.png" />
+        </fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic29_image054.png" />若飞行器自动识别的目标并非人、车、船，请谨慎选择。请勿选择儿童作为跟随目标。请勿选择模型车、模型船等尺寸较小的车、船进行跟随。</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic29_image058.png" />跟随过程中，当跟随目标与其它物体重叠时可能导致跟随目标异常切换。</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic29_image054.png" />高规格录像时（C4K 以上及 60fps 以上规格，Apple ProRes 422 HQ 等规格），在探索模式和使用增广镜 / 减光镜时，焦点跟随不可用。</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic29_image054.png" />光照等环境条件不符合视觉系统的需求时，聚焦和兴趣点环绕（仅支持静态目标）可以使用，但无避障。智能跟随不可用。</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic29_image054.png" />焦点跟随在飞行器未起飞时不能使用。</p>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic29_image059.png" />
+                  </fig>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic29_image054.png" />在限远、限高以及限飞区边界附近无法使用焦点跟随。</p>
+    </result>
+  </taskbody>
+</task>

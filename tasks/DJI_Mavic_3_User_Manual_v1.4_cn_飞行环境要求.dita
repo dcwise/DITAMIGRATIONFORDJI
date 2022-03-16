@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<task xml:lang="zh-CN" id="A754AD44-15B4535-1F2154A82A747AB-BF86BF">
+  <title>飞行环境要求</title>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>恶劣天气下请勿飞行，如大风（风速 12 m/s 及以上）、下雪、下雨、有雾天气等。</cmd>
+      </step>
+      <step>
+        <cmd>选择开阔、周围无高大建筑物的场所作为飞行场地。大量使用钢筋的建筑物会影响指南针工作，而且会遮挡 GNSS 信号，导致飞行器定位效果变差甚至无法定位。建议飞行器至少距离建筑物 5 m 以上。</cmd>
+      </step>
+      <step>
+        <cmd>飞行时，请保持在视线内控制，远离障碍物、人群、水面（建议距离水面 3 m 以上）等。</cmd>
+      </step>
+      <step>
+        <cmd>请勿在有高压线，通讯基站或发射塔等区域飞行，以免遥控器受到干扰。</cmd>
+      </step>
+      <step>
+        <cmd>在海拔 6000 m 以上飞行，由于环境因素导致飞行器电池及动力系统性能下降，飞行性能将会受到影响，请谨慎飞行。</cmd>
+      </step>
+      <step>
+        <cmd>在南北极圈内飞行器无法使用 GNSS 飞行，可以使用视觉系统飞行。</cmd>
+      </step>
+      <step>
+        <cmd>如在运动的物体表面上起飞，如行进中的船、汽车等物体，请谨慎飞行。</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

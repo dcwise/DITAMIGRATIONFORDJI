@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<task xml:lang="zh-CN" id="AA3A245F-51F87F1-525A717622A7846-73B1F0">
+  <title>飞行器</title>
+  <taskbody>
+    <context>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic13_image002.png" />
+                  </fig>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </p>
+    </context>
+    <steps>
+      <step>
+        <cmd>一体式云台相机</cmd>
+        <substeps>
+          <substep>
+            <cmd>长焦相机</cmd>
+          </substep>
+          <substep>
+            <cmd>哈苏 L2D-20c 相机</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>水平全向视觉系统</cmd>
+      </step>
+      <step>
+        <cmd>补光灯</cmd>
+      </step>
+      <step>
+        <cmd>下视视觉系统</cmd>
+      </step>
+      <step>
+        <cmd>红外传感系统</cmd>
+      </step>
+      <step>
+        <cmd>机头指示灯</cmd>
+      </step>
+      <step>
+        <cmd>电机</cmd>
+      </step>
+      <step>
+        <cmd>螺旋桨</cmd>
+      </step>
+      <step>
+        <cmd>飞行器状态指示灯</cmd>
+      </step>
+      <step>
+        <cmd>脚架（内含天线）</cmd>
+      </step>
+      <step>
+        <cmd>上视视觉系统</cmd>
+      </step>
+      <step>
+        <cmd>智能飞行电池</cmd>
+      </step>
+      <step>
+        <cmd>电池电量指示灯</cmd>
+      </step>
+      <step>
+        <cmd>电池开关</cmd>
+      </step>
+      <step>
+        <cmd>电池卡扣</cmd>
+      </step>
+      <step>
+        <cmd>充电 / 调参接口（USB-C）</cmd>
+      </step>
+      <step>
+        <cmd>相机 microSD 卡槽</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<task xml:lang="zh-CN" id="A7B5AA4A-4243B4F-5111871325AEB0C-D052FC">
+  <title>使用场景</title>
+  <shortdesc>下视视觉系统的定位功能适用于无 GNSS 信号或 GNSS 信号欠佳的环境，在普通或平稳模式中自动开启。</shortdesc>
+  <taskbody>
+    <context>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic27_image001.png" />
+                  </fig>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+ 上视、水平全向视觉系统在普通或平稳模式中自动开启（需在 DJI Fly App 中选择避障行为为绕行或刹停）。上视、水平全向视觉系统适用于光照良好的环境，且飞行路线中遇到的障碍物纹理不可特别稀疏。另外由于惯性关系，需要控制飞行器在有效距离内刹车。</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic27_image003.png" /> 请务必留意飞行环境，视觉系统与红外传感系统只在有限条件下发挥安全辅助作用，不能代替人的判断和操控。用户应在飞行过程中时刻留意周围环境与 DJI Fly App 相关警示，全程保持对飞行器的控制并对操控行为负责。</p>
+      <p>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic27_image004.png" />
+        </fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic27_image005.png" />无GNSS 的情况下，在开阔平坦的场地使用视觉系统时，视觉定位系统最佳工作高度范围为0.5-30 m， 超出该范围飞行时，视觉定位性能可能下降，请谨慎飞行。</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic27_image006.png" />在 DJI Fly 可设置补光灯的打开方式（打开、关闭或自动）。若选择自动，补光灯将在环境光线不足时自动开启，此时视觉定位性能下降，若 GNSS 信号不佳，请谨慎飞行。</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic27_image007.png" />视觉系统在水面上可能无法正常工作。因此，当降落功能触发时，飞行器可能无法主动回避下方水域。建议用户对飞行保持全程控制，并根据周围环境进行合理判断，不过度依赖视觉系统。</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic27_image008.png" />视觉系统无法识别没有纹理特征的表面，及无法在光照强度不足或过强的环境中正常工作。在以下场景下视觉系统无法正常工作：</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>纯色表面（例如纯黑、纯白、纯红、纯绿）。</cmd>
+      </step>
+      <step>
+        <cmd>有强烈反光或者倒影的表面（例如冰面）。</cmd>
+      </step>
+      <step>
+        <cmd>水面或者透明物体表面。</cmd>
+      </step>
+      <step>
+        <cmd>运动物体表面（例如人流上方、大风吹动的灌木或者草丛上方）。</cmd>
+      </step>
+      <step>
+        <cmd>光照剧烈快速变化的场景。</cmd>
+      </step>
+      <step>
+        <cmd>特别暗（光照小于 10 lux）或者特别亮（光照大于 40,000 lux）的物体表面。</cmd>
+      </step>
+      <step>
+        <cmd>对红外有很强吸收或者反射作用的材质表面（例如镜面）。</cmd>
+      </step>
+      <step>
+        <cmd>纹理特别稀疏的表面。</cmd>
+      </step>
+      <step>
+        <cmd>纹理重复度很高的物体表面（例如颜色相同的小格子砖）。</cmd>
+      </step>
+      <step>
+        <cmd>细小的障碍物。</cmd>
+      </step>
+    </steps>
+    <result>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic27_image007.png" />请勿以任何方式干扰视觉系统，并确保镜头清晰无污点。</p>
+      <p>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic27_image009.png" />
+        </fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic27_image010.png" />长时间储存后，视觉系统可能需要校准，此时 DJI Fly 将会出现提示，飞行器将进行自动校准。避免在雨雾天气或在其他能见度低（能见度低于 100 m）的场景飞行。</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic27_image004.png" />起飞前请检查红外传感系统和视觉系统的表面玻璃：</p>
+      <ol>
+        <li>去掉表面的贴膜、贴纸、及其他遮挡物品。</li>
+        <li>若有水滴、指纹、脏污等，请先擦拭干净（请使用无尘布擦拭，不能使用酒精等有机溶剂）。</li>
+        <li>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic27_image009.png" />若表面玻璃有掉落、破碎、划痕、磨损等，请返厂维修。请勿以任何方式遮挡红外传感器。</li>
+      </ol>
+      <p>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic27_image011.png" />
+        </fig>
+      </p>
+    </result>
+  </taskbody>
+</task>

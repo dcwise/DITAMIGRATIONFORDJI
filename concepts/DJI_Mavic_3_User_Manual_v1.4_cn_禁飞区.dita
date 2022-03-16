@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept xml:lang="zh-CN" id="AB5AA4AD-425B3BF-511F5A871652574-175AD8">
+  <title>禁飞区</title>
+  <conbody>
+    <p>禁飞区包括机场限制飞行区域以及特殊飞行限制区域，DJI 官方网站上公布了全球已被飞行限制功能覆盖的特殊区域列表，详情请参考飞行限制特殊区域（<xref href="http://www.dji.com/ﬂysafe" scope="external" format="html">http://www.dji.com/ﬂysafe</xref>）。</p>
+    <p>飞行器在禁飞区域将被禁止或限制飞行，DJI Fly App 将会发出相应提示，请时刻留意。</p>
+  </conbody>
+</concept>

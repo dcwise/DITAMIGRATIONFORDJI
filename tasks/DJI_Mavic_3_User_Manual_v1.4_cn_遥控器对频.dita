@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<task xml:lang="zh-CN" id="A75A3A44-25B4511-F154A8814257415-AF463A">
+  <title>遥控器对频</title>
+  <shortdesc>遥控器与飞行器对频之后才能使用。对频步骤如下：</shortdesc>
+  <taskbody>
+    <context>
+    </context>
+    <steps>
+      <step>
+        <cmd>开启飞行器及遥控器。</cmd>
+      </step>
+      <step>
+        <cmd>连接移动设备，运行 DJI Fly。</cmd>
+      </step>
+      <step>
+        <cmd>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic60_image001.png" />在相机界面，点击 图标后进入操控界面，点击“配对飞机”。</cmd>
+      </step>
+      <step>
+        <cmd>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic60_image002.png" />
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic60_image003.png" />
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic60_image004.png" />
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic60_image005.png" />
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic60_image006.png" />
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic60_image007.png" />长按飞行器电源按键 4 秒以上，成功进入对频后飞行器将发出“嘀”一声提示音，对频成功将发出“嘀嘀”两声提示音，遥控器电量指示灯由闪烁变为常亮。</cmd>
+      </step>
+    </steps>
+    <result>
+      <table>
+        <tgroup cols="1" colsep="1" rowsep="1">
+          <colspec colname="col1" />
+          <tbody>
+            <row>
+              <entry colname="col1">
+                <p>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic60_image009.png" /> 对频时请保持飞行器与遥控器的距离在 0.5 m 以内。</p>
+                <p>如果使用新遥控器与飞行器成功对频，则原遥控器不再与飞行器连接。</p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1" translate="no">
+                <p>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic60_image011.png">
+                  </image> 每次飞行前，确保遥控器电量充满。遥控器低电量时将会发出提示音。</p>
+                <p>遥控器闲置 5 分钟后将发出报警，拨动摇杆或按下任意按键可让遥控器恢复为正常工作状态。闲置</p>
+                <p>超过 6 分钟将自动关机。</p>
+                <p>使用移动设备支架夹持移动设备时，务必压紧避免移动设备滑落。每隔 3 个月左右重新充电一次以保持电池活性。</p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </result>
+  </taskbody>
+</task>

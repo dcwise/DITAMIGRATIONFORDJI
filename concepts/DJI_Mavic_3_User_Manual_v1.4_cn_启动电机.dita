@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept xml:lang="zh-CN" id="A75A34D4-2415B45-B4514A792A47AD7-D9CA1B">
+  <title>启动电机</title>
+  <shortdesc>执行掰杆动作可启动电机。电机起转后，请马上松开摇杆。</shortdesc>
+  <conbody>
+    <p>
+      <fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic76_image002.png" />
+      </fig>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic76_image004.png" />
+      <fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic76_image006.png" />
+      </fig>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic76_image008.png" />或</p>
+  </conbody>
+</concept>

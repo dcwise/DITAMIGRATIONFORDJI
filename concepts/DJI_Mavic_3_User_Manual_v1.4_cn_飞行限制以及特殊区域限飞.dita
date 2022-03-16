@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept xml:lang="zh-CN" id="ABA3AAD2-1B43B45-11F254A155A741A-395F8D">
+  <title>飞行限制以及特殊区域限飞</title>
+  <shortdesc>根据国际民航组织和各国空管对空域管制的规定以及对无人机的管理规定，无人机必须在规定的空域中飞行。出于飞行安全考虑，默认开启飞行限制功能，包括高度和距离限制以及特殊区域飞行限制，以帮助用户更加安全合法地使用本产品。</shortdesc>
+  <prolog>
+    <author type="contributor">RAYFAN</author>
+    <critdates>
+      <!--RAYFAN-->
+      <revised modified="2022-03-16"/>
+    </critdates>
+    <metadata>
+      <data name="产品类别" value="Everest "/>
+      <data name="产品版本" value=""/>
+      <data name="手册类型" value="规格书"/>
+      <data name="手册秘级" value="秘密"/>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>GNSS 有效时，特殊区域飞行限制与高度和距离限制共同影响飞行。飞行器在
+ GNSS 无效时， 仅受高度限制。</p>
+    <p>限高限低和距离限制</p>
+    <p>限高与限低高度用于限制飞行器的飞行高度，最大半径用于限制飞行器的飞行距离。用户可以在 DJI Fly App 中设置。</p>
+    <p>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic71_image003.png" />最大高度</p>
+    <p>最大半径</p>
+    <p>返航点</p>
+    <p>起飞时飞行器的高度</p>
+    <p id="_bookmark19">GNSS 生效时</p>
+    <table>
+      <tgroup cols="3" colsep="1" rowsep="1">
+        <colspec colname="col1" />
+        <colspec colname="col2" />
+        <colspec colname="col3" />
+        <tbody>
+          <row>
+            <entry colname="col1">
+            </entry>
+            <entry colname="col2"> 飞行限制 </entry>
+            <entry colname="col3"> DJI Fly App </entry>
+          </row>
+          <row>
+            <entry colname="col1"> 最大高度 </entry>
+            <entry colname="col2"> 飞行高度将不能超过 DJI Fly App 中设置的最大高度 </entry>
+            <entry colname="col3"> 提示已达到最大限飞高度 </entry>
+          </row>
+          <row>
+            <entry colname="col1"> 最大半径 </entry>
+            <entry colname="col2"> 飞行器距离返航点的距离将不能超过 DJI Fly App 中设置的最大半径 </entry>
+            <entry colname="col3"> 提示已达到最大限飞距离 </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <p>仅视觉定位系统生效时</p>
+    <table>
+      <tgroup cols="3" colsep="1" rowsep="1">
+        <colspec colname="col1" />
+        <colspec colname="col2" />
+        <colspec colname="col3" />
+        <tbody>
+          <row>
+            <entry colname="col1">
+            </entry>
+            <entry colname="col2"> 飞行限制 </entry>
+            <entry colname="col3"> DJI Fly App </entry>
+          </row>
+          <row>
+            <entry colname="col1"> 最大高度 </entry>
+            <entry colname="col2"> GNSS 信号欠佳时，限飞高度为 30 m。GNSS 信号欠佳且环境光线过暗时，限飞高度为 3 m。 </entry>
+            <entry colname="col3"> 提示已达到最大限飞高度 </entry>
+          </row>
+          <row>
+            <entry colname="col1"> 最大半径 </entry>
+            <entry namest="col2" nameend="col3"> 无限制，无提示 </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+   
+    <p>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic71_image006.png"/> 在每次上电过程中，若出现过一次
+      GNSS 信号等级大于或等于 2 时，限飞高度 3 m 或 30 m 的限制将自动解除，此后 GNSS 信号再次变弱时飞行器将不受高度限制。 <fig
+        id="fig_gpr_wl1_xsb">
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic71_image007.png"
+          id="image_hpr_wl1_xsb"/>
+      </fig>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic71_image008.png"
+        id="image_ipr_wl1_xsb"/>飞行器由于惯性冲出限制边界后，遥控器仍有控制权，但不能继续让飞行器继续靠近限制飞行区域。</p>
+    <p>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic71_image009.png"
+      />为保证飞行安全，请尽量避开机场、高速公路、火车站、地铁站以及市区等区域进行飞行；尽量在视距范围内飞行。</p>
+  </conbody>
+</concept>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<task xml:lang="zh-CN" id="A5A34D42-1434F51-214A8C525A74175-AF5BE7">
+  <title>精准降落</title>
+  <taskbody>
+    <context>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic24_image001.png" />
+                  </fig>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+ 飞行器在自动返航的过程中，当到达返航点上方后开始匹配地形特征，一旦匹配成功则开始修正降落位置，使飞行器能够精准地回到起飞点。</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic24_image003.png" /> 精准降落过程中降落保护同时生效。</p>
+      <p>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic24_image004.png" />
+        </fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic24_image005.png" />飞行器仅在满足以下条件的情况下可实现精准降落：</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>飞行器仅在起飞时记录返航点，飞行过程中未刷新返航点。</cmd>
+      </step>
+      <step>
+        <cmd>飞行器起飞方式为垂直起飞，且起飞高度超过 7 m。</cmd>
+      </step>
+      <step>
+        <cmd>地面环境未发生动态变化。</cmd>
+      </step>
+      <step>
+        <cmd>地面环境纹理较为丰富（例如雪地场景不适用该功能）。</cmd>
+      </step>
+      <step>
+        <cmd>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic24_image006.png" />光线明暗合适（例如暗夜或强光场景不适用该功能）。降落过程中，可使用遥控器进行控制：</cmd>
+      </step>
+      <step>
+        <cmd>下拉油门杆可加大下降速度。</cmd>
+      </step>
+      <step>
+        <info>
+          <table>
+            <tgroup cols="1" colsep="1" rowsep="1">
+              <colspec colname="c1" align="left" />
+              <tbody>
+                <row>
+                  <entry colname="c1">
+                    <fig>
+                      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic24_image001.png" />
+                    </fig>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+ 除油门杆外，使用其他方式拨动摇杆将被视为放弃精准降落，飞行器将垂直下降，
+ 降落保护功能同时生效。</info>
+      </step>
+    </steps>
+  </taskbody>
+</task>

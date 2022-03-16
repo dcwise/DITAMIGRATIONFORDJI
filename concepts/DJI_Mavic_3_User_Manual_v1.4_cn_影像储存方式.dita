@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept xml:lang="zh-CN" id="AB5A3A4A-4241B43-B4F511F147A1355-74175A">
+  <title>影像储存方式</title>
+  <shortdesc>DJI Mavic 3 飞行器机身内置
+ 8GB 存储空间，可用于存储拍摄的影像，并且配备了
+ microSD
+ 卡槽用于存储空间的扩展。高质量视频 / 照片的拍摄要求存储设备支持快速写入，请使用SDXC,UHS-I ,UHS-II 规格的 microSD 卡以保证拍摄性能，请详见规格参数
+ SD 卡推荐列表。</shortdesc>
+  <conbody>
+    <p>
+      <table>
+        <tgroup cols="1" colsep="1" rowsep="1">
+          <colspec colname="c1" align="left" />
+          <tbody>
+            <row>
+              <entry colname="c1">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic47_image001.png" />
+                </fig>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic47_image002.png" />此外，DJI Mavic
+ 3 Cine 飞行器内置
+ 1 TB SSD，可用于存储 Apple ProRes
+ 422 HQ 格式视频， 通过标配 DJI 10 Gbps 高速数据线可快速将 SSD 内素材导出。</p>
+    <p>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic47_image004.png" /> 请勿在飞行器开启的时候插拔 SD 卡。录像过程中插拔 SD 卡或在电源开启的情况下拆下电池可能导致 SD 卡损坏以及存储数据丢失。</p>
+    <p>
+      <fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic47_image005.png" />
+      </fig>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic47_image006.png" />为保证相机系统稳定性，将单次录像时长限制在 30 分钟以内。在使用相机拍摄前检查相机参数设置，确保参数正确。</p>
+    <p>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic47_image007.png" />在使用本设备拍摄重要影像时，请在实际拍摄之前进行数次测试拍摄，以确保设备处于正常的工作状态。</p>
+    <p>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic47_image008.png" />必须开启智能飞行电池，才能拷贝或下载存储于飞行器内的相片或者视频。</p>
+    <p>
+      <table>
+        <tgroup cols="1" colsep="1" rowsep="1">
+          <colspec colname="c1" align="left" />
+          <tbody>
+            <row>
+              <entry colname="c1">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic47_image001.png" />
+                </fig>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic47_image009.png" />请正确关闭智能飞行电池，否则相机的参数将不能保存，且正在录制的视频会损坏。DJI 对无法读取视频和相片造成的损失不承担任何责任。</p>
+  </conbody>
+</concept>

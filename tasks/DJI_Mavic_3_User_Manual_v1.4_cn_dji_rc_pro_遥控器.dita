@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<task xml:lang="zh-CN" id="AB54D421-B453B4F-1F2154A105A7417-558C99">
+  <title>DJI RC Pro 遥控器</title>
+  <taskbody>
+    <context>
+      <p>
+        <table>
+          <tgroup cols="2" colsep="1" rowsep="1">
+            <colspec colname="col2" align="left" />
+            <colspec colname="col4" align="left" />
+            <tbody>
+              <row>
+                <entry morerows="1" align="left" colname="col2">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic14_image003.png" />
+                  </fig>
+                </entry>
+                <entry align="left" colname="col4">
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic14_image004.png" />
+                </entry>
+              </row>
+              <row>
+                <entry colname="col4" />
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </p>
+    </context>
+    <steps>
+      <step>
+        <cmd>天线</cmd>
+        <info>
+          <p>传输飞行器控制和图像无线信号。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>返回按键</cmd>
+        <info>
+          <p>单击返回上一级界面，双击返回系统首页。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>摇杆</cmd>
+        <info>
+          <p>可拆卸设计的摇杆，便于收纳。在 DJI Fly App 中可设置摇杆操控方式。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>智能返航按键</cmd>
+        <info>
+          <p>长按启动智能返航，再短按一次取消智能返航。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>急停按键</cmd>
+        <info>
+          <p>短按使飞行器紧急刹车并原地悬停（GNSS 或视觉系统生效时）。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>飞行挡位切换开关</cmd>
+        <info>
+          <p>用于切换平稳（Cine）、普通（Normal） 与运动（Sport）模式。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>五维按键</cmd>
+        <info>
+          <p>可在 DJI Fly 查看五维按键默认功能。查看路径为相机界面 - 设置 - 操控。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>电源按键</cmd>
+        <info>
+          <p>短按查看遥控器电量；短按一次，再长按 2 秒开启 / 关闭遥控器电源。当开启遥控器时，短按可切换息屏和亮屏状态。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>确认按键</cmd>
+        <info>
+          <p>选择确认。进入 DJI Fly 后，该按键暂不具备功能。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>触摸显示屏</cmd>
+        <info>
+          <p>可点击屏幕进行操作。使用时请注意为屏幕防水（如下雨天时避免雨水落到屏幕）， 以免进水导致屏幕损坏。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>microSD 卡槽</cmd>
+        <info>
+          <p>可插入 microSD 卡。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>USB-C 接口</cmd>
+        <info>
+          <p>为遥控器充电。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>Mini HDMI 接口</cmd>
+        <info>
+          <p>输出
+ HDMI 信号至 HDMI 显示器。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>云台俯仰控制拨轮</cmd>
+        <info>
+          <p>拨动调节云台俯仰角度。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>录影按键</cmd>
+        <info>
+          <p>开始或停止录影。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>状态指示灯</cmd>
+        <info>
+          <p>显示遥控器的系统状态。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>电量指示灯</cmd>
+        <info>
+          <p>显示当前遥控器电池电量。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>对焦 / 拍照按键</cmd>
+        <info>
+          <p>半按可进行自动对焦，全按可拍摄照片。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>相机控制拨轮</cmd>
+        <info>
+          <p>控制相机变焦。</p>
+          <p>
+            <fig>
+              <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic14_image007.png" />
+            </fig>
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>出风口</cmd>
+        <info>
+          <p>帮助遥控器进行散热。使用时请勿挡住出风口。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>摇杆收纳槽</cmd>
+        <info>
+          <p>用于放置摇杆。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>自定义功能按键 C1</cmd>
+        <info>
+          <p>默认云台回中
+ / 朝下切换功能，
+ 可前往</p>
+          <p>DJI Fly 进行自定义。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>扬声器</cmd>
+        <info>
+          <p>输出声音。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>自定义功能按键 C2</cmd>
+        <info>
+          <p>默认补光灯开关功能，可前往 DJI Fly 进行自定义。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>入风口</cmd>
+      </step>
+    </steps>
+    <result>
+      <p>帮助遥控器进行散热。使用时请勿挡住入风口。</p>
+    </result>
+  </taskbody>
+</task>

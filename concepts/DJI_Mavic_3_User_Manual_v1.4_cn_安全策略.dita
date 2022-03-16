@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept xml:lang="zh-CN" id="A7B5A3A4-D15B551-21865741A09212D-A7A047">
+  <title>安全策略</title>
+  <shortdesc>基于安全飞行考虑，需要在 O3+ 图传生效的情况下才能开启增强图传功能。在飞行过程中，如果 O3+ 链路断开，将不允许关闭增强图传。</shortdesc>
+  <conbody>
+    <p>在仅
+ 4G 传输场景下，遥控器或 DJI Fly 重启会导致失控返航，直到
+ O3+ 图传连上 4G 才能恢复。</p>
+    <p>在仅 4G 传输场景下，飞行器落地后，会启动
+ 3 分钟起飞倒计时。若在 3 分钟内用户未使飞行器起飞，在倒计时结束后飞行器将被限制不能起飞，直至 O3+ 链路恢复。</p>
+  </conbody>
+</concept>

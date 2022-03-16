@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept xml:lang="zh-CN" id="A5A3A444-15B45B4-5154A8761C55A74-175A66">
+  <title>遥控器使用注意</title>
+  <shortdesc>使用 DJI RC Pro 遥控器时，确保正确安装 DJI Cellular 模块，并且在使用增强图传功能时关闭遥控器 Wi-Fi 功能以减少干扰。</shortdesc>
+  <conbody>
+    <p>使用 DJI RC-N1 遥控器时，将直接使用手机上的 4G 网络进行数据传输。使用增强图传的过程中， 建议关闭手机
+ Wi-Fi 以减少干扰，避免影响图传延时和稳定性。</p>
+    <p>由于安卓 /iOS 系统的限制，当手机来电，如果 DJI Fly 在后台运行将可能被限制无法使用 4G 网络，导致增强图传不可用。如果此时 O3+ 断开，将会导致飞行器失控返航。</p>
+  </conbody>
+</concept>

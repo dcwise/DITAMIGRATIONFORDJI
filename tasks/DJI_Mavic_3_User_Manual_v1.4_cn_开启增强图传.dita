@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<task xml:lang="zh-CN" id="A734215B-453BF24-76125A74A3E29AD-AD0A7E">
+  <title>开启增强图传</title>
+  <shortdesc>在飞行器和遥控器通过 4G 建立连接后，用户可在
+ DJI Fly 上开启增强图传。</shortdesc>
+  <taskbody>
+    <context>
+    </context>
+    <steps>
+      <step>
+        <cmd>在 DJI Fly 相机界面，点击图传信号图标，在弹窗中开启或关闭增强图传。</cmd>
+      </step>
+      <step>
+        <cmd>在 DJI Fly 相机界面，点击“…”进入系统设置并点击“图传”，在图传页面中开启或关闭增强图传。</cmd>
+      </step>
+    </steps>
+    <result>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic86_image002.png" />
+                  </fig>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+ 图传信号图标 系统设置</p>
+      <p>首次开启增强图传时，需要进行实名认证，请按提示完成实名认证。请注意用户实名有效期为</p>
+      <p>24 小时，因此超过 24 小时需要重新进行实名认证。</p>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic86_image003.png" />
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic86_image005.png" /> 为保障飞行安全，慢动作和焦点跟随模式下，增强图传功能不可用。</p>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic86_image006.png" />
+                  </fig>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic86_image007.png" />
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic86_image008.png" />开启增强图传后，务必留意图传信号强度，注意飞行安全。点击图传信号图标，在弹窗中可查看当前遥控器图传及 4G 图传信号强度。</p>
+    </result>
+  </taskbody>
+</task>

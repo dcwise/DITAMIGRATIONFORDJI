@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<task xml:lang="zh-CN" id="A5AA4A42-43B4F51-1F187C14547517A-5EDDEA">
+  <title>智能返航</title>
+  <shortdesc>智能返航由用户主动触发，可长按遥控器智能返航按键或点击
+ DJI Fly App 相机界面中的返航图标 <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic20_image002.png" /> 启动。返航过程中短按遥控器智能返航按键或点击 DJI Fly App 相机界面中的停止图标 <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic20_image004.png" />可退出返航。退出智能返航后，用户可重新控制飞行器。</shortdesc>
+  <taskbody>
+    <context>
+      <p>高级智能返航</p>
+      <p>触发智能返航时，当环境、光线满足视觉工作条件，飞行器将自主规划返航路径进行高级智能返航。规划路径会在 DJI Fly 地图中显示，并将根据环境实时调整。</p>
+      <p>返航路线</p>
+      <p>高级智能返航支持返航路线设置。在 DJI Fly App 相机界面，进入系统设置 -&gt; 安全页面，点击返航路线进行设置。</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>最佳路线：飞行器将根据环境（障碍物、图传信号等）智能地调整飞行高度，用户设定的返航高度此时不生效。此最佳返航路线较短，可以节省电量，增加飞行时间。</cmd>
+      </step>
+      <step>
+        <cmd>设定高度：当返航距离＞ 50 m ，并且当前高度低于设定的返航高度时，飞行器将自主规划返航路径，绕过障碍物飞行到空旷区域，然后上升至设定的返航高度，再按照最佳路线返航。返航距离在 5-50 m 时，将以当前高度按照最佳路线返航，不会上升至用户设置的返航高度。在接近返航点过程中，当前高度高于设定的返航高度时，执行边返航边下降。</cmd>
+      </step>
+    </steps>
+    <result>
+      <p>高级智能返航过程</p>
+      <ol>
+        <li>飞行器记录返航点。</li>
+        <li>触发高级智能返航。</li>
+        <li>飞行器首先刹停。<ol><li>开始返航时，若返航距离（飞行器与返航点之间的水平距离）≤5m 时，飞行器将直接降落。</li><li>当返航距离&gt;5 m
+ 时，飞行器将根据设定的返航行为自主规划返航路径，绕过途经的障碍物、禁飞区，执行返航。机头将始终朝向返航飞行方向。</li></ol></li>
+        <li>在返航过程中，飞行器将按照设定的返航路线、实际场景和图传信号质量自动飞行。</li>
+        <li>飞行器到达返航点上方，开始降落。</li>
+      </ol>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic20_image011.png" />
+                  </fig>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </p>
+      <p>直线返航</p>
+      <p>触发智能返航时，当环境、光线不满足视觉系统的工作要求时，飞行器将进行直线返航。直线返航过程如下：</p>
+      <ol>
+        <li>飞行器记录返航点。</li>
+        <li>触发智能返航。</li>
+        <li>飞行器首先刹停。开始返航时：<ol><li>当返航距离 &gt;50 m 时，飞行器调整机头方向朝向返航点，然后垂直上升至用户设定的返航高度后开始返航。若当前高度大于返航高度，则以当前高度返航。</li><li>当返航距离在 5-50 m，飞行器调整机头方向朝向返航点，并以当前高度返航。若当前对地高度小于 2 m，飞行器将上升至 2 m 再返航。</li><li>若返航距离 ≤5 m，飞行器将直接降落。</li></ol></li>
+        <li>
+          <table>
+            <tgroup cols="1" colsep="1" rowsep="1">
+              <colspec colname="c1" align="left" />
+              <tbody>
+                <row>
+                  <entry colname="c1">
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic20_image012.png" />
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+ 飞行器到达返航点上方，开始降落。</li>
+      </ol>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic20_image014.png" /> 高级智能返航过程中，飞行器将根据环境（风速风向、障碍物等）智能地调整飞行速度。</p>
+      <p>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic20_image015.png" />
+        </fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic20_image016.png" />如果飞行器周围有电线、小树枝等视觉系统无法躲避的障碍物，请手动控制飞行器到空旷区域再执行智能返航。</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic20_image017.png" />若返航路线上有电线、电塔等视觉系统无法躲避的障碍物，请选用“设定高度”的返航路线，并确保设定的返航高度高于返航路线上的障碍物。</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic20_image016.png" />若在返航过程中更改返航路线，飞行器将在刹停后执行新的返航路线。</p>
+      <p>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic20_image018.png" />
+        </fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic20_image019.png" />若在返航过程中调整最大高度至低于当前高度，飞行器将原地垂直下降至最大高度后继续返航。返航过程中不支持调整返航高度。</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic20_image020.png" />当前飞行器的飞行高度与设定返航高度差异过大时，由于不同高度的环境风速差异较大，将无法准确预估返航电量。请留意返航电量与 DJI Fly 警告信息。</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic20_image021.png" />如果飞行器起飞时或返航过程中, 环境、光线不满足视觉系统工作条件 , 将无法使用高级智能返航。</p>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic20_image022.png" />
+                  </fig>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic20_image016.png" />高级智能返航过程中，若环境、光线不满足视觉工作条件或出现其他异常情况，飞行器将进入直线返航，无法躲避途径的障碍物。返航前，请务必设置适当的返航高度。</p>
+      <p>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic20_image023.png" />
+        </fig>
+      </p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic20_image017.png" />高级智能返航过程中，遥控器信号正常时用户可通过遥控器俯仰杆控制飞行器在返航路径上的飞行速度，但不可以控制机头朝向、左右飞行及飞行高度。若持续上拉俯仰杆加速返航，将加快电量消耗。若打杆使飞行速度大于有效避障速度，飞行器将无法避障。若往下拉满俯仰杆，飞行器将刹车悬停，并退出返航；松开俯仰杆后，即可继续控制飞行器。</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic20_image015.png" />直线返航上升过程中，若往下拉满油门杆，飞行器将停止上升并退出返航；松开油门杆后，即可继续控制飞行器。直线返航巡航过程中，若往下拉满俯仰杆，飞行器将刹车悬停，并退出返航；松开俯仰杆后，即可继续控制飞行器。</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic20_image024.png" />直线返航上升过程中，若飞行器高度达到限飞高度，将停止上升并以当前高度返航。</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic20_image018.png" />直线返航前进过程中，因前方检测到障碍物而上升时，若飞行器高度达到限飞高度将悬停。</p>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic20_image022.png" />
+                  </fig>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic20_image015.png" />直线返航过程中，遥控器信号正常时用户可通过遥控器俯仰杆控制飞行器速度、油门杆控制飞行器高度，但不可以控制机头朝向和左右飞行。若用户打杆使飞行速度大于有效避障速度，飞行器将无法避障。</p>
+    </result>
+  </taskbody>
+</task>

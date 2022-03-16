@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<task xml:lang="zh-CN" id="A7434415-B4B4F11-F24A71521D1D8EB-23969E">
+  <title>阅读提示</title>
+  <taskbody>
+    <context>
+      <table>
+        <tgroup cols="4" colsep="1" rowsep="1">
+          <colspec colname="col1" />
+          <colspec colname="col2" />
+          <colspec colname="col3" />
+          <colspec colname="col4" />
+          <tbody>
+            <row>
+              <entry colname="col1"> 禁止 </entry>
+              <entry colname="col2">
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic2_image002.png" /> 重要注意事项 </entry>
+              <entry colname="col3"> 操作、使用提示 </entry>
+              <entry colname="col4">
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic2_image004.png" /> 词汇解释、参考信息 </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>使用建议</p>
+      <p>DJI<sup>TM</sup> 为 MAVIC<sup>TM</sup> 3 用户提供了教学视频和以下文档资料：</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>《安全概要》</cmd>
+      </step>
+      <step>
+        <cmd>《快速入门指南》</cmd>
+      </step>
+      <step>
+        <cmd>《用户手册》</cmd>
+      </step>
+    </steps>
+    <result>
+      <p>建议用户首先观看教学视频和《安全概要》，再阅读《快速入门指南》了解使用过程。获取详细产品信息请阅读《用户手册》。</p>
+      <p>获取教学视频</p>
+      <p>用户可通过以下链接获取和观看教学视频，确保正确、安全地使用本产品。</p>
+      <p>
+        <table>
+          <tgroup cols="3" colsep="1" rowsep="1">
+            <colspec colname="col2" />
+            <colspec colname="col3" />
+            <colspec colname="col4" />
+            <tbody>
+              <row>
+                <entry namest="col2" nameend="col3" />
+                <entry morerows="1" align="left" colname="col4">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic2_image005.png" />
+                  </fig>
+                </entry>
+              </row>
+              <row>
+                <entry morerows="1" align="left" colname="col2">
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic2_image006.png" />
+                </entry>
+                <entry colname="col3" />
+              </row>
+              <row>
+                <entry colname="col3" />
+                <entry colname="col4" />
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <b>MAVIC 3 MAVIC 3 CINE</b>
+      </p>
+      <p>https://s.dji.com/ZGppL5 https://s.dji.com/ZGppL4</p>
+      <p>下载 DJI Fly App</p>
+      <p>请务必连接 DJI Fly App 使用本产品。扫描以上二维码以获得下载地址。</p>
+      <p>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic2_image007.png" />
+        </fig>
+      </p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic2_image008.png" />
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic2_image010.png" /> DJI RC Pro 遥控器已内置 DJI Fly App。使用 RC-N1 遥控器，需自行下载 DJI Fly App 至移动设备后使用。</p>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic2_image011.png" />
+                  </fig>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic2_image012.png" />DJI Fly App 支持 Android 6.0 及以上系统，支持 iOS 11.0 及以上系统。</p>
+      <p>* 为保证飞行安全，未连接、未登录
+ App，以及中国大陆地区用户未绑定手机完善注册信息进行飞行时，飞行器将被限高 30
+ m，限远 50
+ m。在中国大陆地区使用飞行器的用户，需根据中国民用航空局的相关规定完成实名登记，请通过民航局无人机实名登记系统登记，或直接在 DJI Fly App 中进行登记操作。如需了解更多信息，请访问 <u>https://uas.caac.gov.cn</u></p>
+      <p>下载 DJI Assistant 2 (Consumer Drones Series) 调参软件</p>
+      <p>通过以下地址下载 DJI Assistant 2 (Consumer Drones
+ Series) 调参软件：</p>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic2_image013.png" />
+                  </fig>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <xref href="http://www.dji.com/mavic-3/downloads" scope="external" format="html">http://www.dji.com/mavic-3/downloads</xref>
+      </p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic2_image015.png" /> 本产品的工作环境温度为 -10℃至 40℃，根据电子元器件适用温度的等级划分，不满足需要更高适应条件的军工级（-55℃至 125℃）要求。请在满足使用场景的环境下合理使用飞行器。</p>
+      <p>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic2_image007.png" />
+        </fig>
+      </p>
+      <p>目录</p>
+      <p>
+        <xref href="DJI_Mavic_3_User_Manual_v1.4_cn_阅读提示.dita">阅读提示 2</xref>
+      </p>
+      <p>
+        <xref href="DJI_Mavic_3_User_Manual_v1.4_cn_阅读提示.dita">符号说明 2</xref>
+      </p>
+      <p>
+        <xref href="DJI_Mavic_3_User_Manual_v1.4_cn_阅读提示.dita">使用建议 2</xref>
+      </p>
+      <p>
+        <xref href="DJI_Mavic_3_User_Manual_v1.4_cn_阅读提示.dita">获取教学视频 2</xref>
+      </p>
+      <p>
+        <xref href="DJI_Mavic_3_User_Manual_v1.4_cn_阅读提示.dita">下载 DJI Fly App 2</xref>
+      </p>
+      <p>
+        <xref href="DJI_Mavic_3_User_Manual_v1.4_cn_阅读提示.dita">下载 DJI Assistant 2 (Consumer Drones Series) 调参软件 2</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_产品概述1.dita">产品概述 6</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_产品概述1.dita">简 介 6</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_concept1.dita">首次使用 7</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_激活_dji_mavic_3_飞行器.dita">部件名称 9</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_飞行器.dita#AB5A2414-5BF51F2-812525A175764E1-245A65/_bookmark4">飞行器 14</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_飞行器.dita#AB5A2414-5BF51F2-812525A175764E1-245A65/_bookmark4">概述 14</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_飞行器.dita#AB5A2414-5BF51F2-812525A175764E1-245A65/_bookmark4">飞行挡位 14</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_飞行器状态指示灯.dita">飞行器状态指示灯 15</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_自动返航.dita">自动返航 16</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_视觉与红外传感系统.dita">视觉与红外传感系统 20</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_智能飞行功能.dita">智能飞行功能 22</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_concept1.dita">高级辅助飞行系统 5.0（APAS 5.0） 29</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_concept1.dita">飞行数据 29</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_concept1.dita">高速手机快传 30</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_concept1.dita">螺旋桨 31</xref>
+      </p>
+      <p>
+        <xref href="DJI_Mavic_3_User_Manual_v1.4_cn_智能飞行电池.dita">智能飞行电池 32</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_云台相机.dita">云台相机 37</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_遥控器.dita#AB5A3A4A-4241B43-B4F511F147A1C55-74175A/_bookmark14">遥控器 40</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_遥控器.dita#AB5A3A4A-4241B43-B4F511F147A1C55-74175A/_bookmark14">DJI RC Pro 40</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_concept1.dita">RC-N1 48</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_dji_fly_app.dita#AB5A3A44-B4F5F15-4A715525A175A93-9B511D/_bookmark16">DJI Fly App 54</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_dji_fly_app.dita#AB5A3A44-B4F5F15-4A715525A175A93-9B511D/_bookmark16">主 页 54</xref>
+      </p>
+      <p>
+        <xref href="DJI_Mavic_3_User_Manual_v1.4_cn_相机界面.dita">相机界面 55</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_飞_行.dita#A7B53A4D-241543F-515A871D5A74568-0F7456/_bookmark18">飞 行 60</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_飞_行.dita#A7B53A4D-241543F-515A871D5A74568-0F7456/_bookmark18">飞行环境要求 60</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_飞_行.dita#A7B53A4D-241543F-515A871D5A74568-0F7456/_bookmark18">飞行限制以及特殊区域限飞 60</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_飞行限制以及特殊区域限飞.dita#ABA3AAD2-1B43B45-11F254A155A741A-395F8D/_bookmark19">飞行前检查 61</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_concept1.dita">自动起飞 / 自动降落 62</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_concept1.dita">手动启动 / 停止电机 62</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_停止电机.dita#A75AD44B-4B51215-25A1A3D285B6EB9-218E2C/_bookmark21">基础飞行 63</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_附_录1.dita">附 录 65</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_附_录1.dita">规格参数 65</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_concept1.dita">固件升级 70</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_增强图传功能.dita">增强图传功能 71</xref>
+      </p>
+      <p>
+        <xref href="../concepts/DJI_Mavic_3_User_Manual_v1.4_cn_安全策略.dita">售后保修信息 73</xref>
+      </p>
+    </result>
+  </taskbody>
+</task>

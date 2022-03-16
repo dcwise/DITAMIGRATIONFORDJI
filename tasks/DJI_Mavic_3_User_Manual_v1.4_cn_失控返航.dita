@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<task xml:lang="zh-CN" id="A7B4A424-5BBF512-1A7C652A7417AAF-F0F665">
+  <title>失控返航</title>
+  <shortdesc>DJI Fly 可将遥控信号中断后飞行器失联行为设置为返航、降落或悬停，设置为返航后，当GNSS 信号良好、指南针工作正常且成功记录了返航点，当飞行器和遥控器信号中断
+ 6 秒或以上， 飞行器将进入失控返航。</shortdesc>
+  <taskbody>
+    <context>
+      <p>当环境光线良好，满足视觉系统的工作环境时，DJI Fly App 将会显示信号中断前飞行器规划的返航路径以供参考，根据设置的返航路线，以高级智能返航过程返航。返航过程中，如果遥控器信号恢复，飞行器将会继续执行返航，App 内将会更新规划的返航路径。</p>
+      <p>当环境光线欠佳，不满足视觉系统的工作环境时，飞行器将会执行原路返航。原路返航过程如下：</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>飞行器首先刹停。</cmd>
+      </step>
+      <step>
+        <cmd>开始返航时：</cmd>
+        <substeps>
+          <substep>
+            <cmd>当返航距离 &gt;50 m 时，飞行器调整机头方向朝向返航飞行方向，然后沿着历史飞行路径反</cmd>
+            <info>
+              <p>向飞行 50 m，随后再进入直线返航。</p>
+            </info>
+          </substep>
+          <substep>
+            <cmd>当返航距离在 5-50 m，飞行器将退出原路返航，进入直线返航。</cmd>
+          </substep>
+          <substep>
+            <cmd>若返航距离 ≤ 5 m，飞行器将直接降落。</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>飞行器到达返航点上方，开始降落。</cmd>
+      </step>
+    </steps>
+    <result>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic22_image001.png" />
+                  </fig>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+ 返航过程中如果遥控器信号恢复，飞行器会进入或继续直线返航。</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic22_image003.png" /> 返航若由 DJI Fly App 触发，当返航距离大于等于 5 m 时，App 显示返航和降落选项，用户可选择返航或直接降落。</p>
+      <p>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic22_image004.png" />
+        </fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic22_image005.png" />定位服务不佳（如 GNSS
+ 信号欠佳或者 GNSS
+ 不工作）时，有可能无法实现正常返航。若失控返航时定位服务不佳，飞行器将进入姿态模式，并自动降落。</p>
+      <p>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic22_image006.png" />
+        </fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic22_image007.png" />起飞前务必先进入 DJI Fly App
+ 的安全设置界面，设置适当的返航高度（默认返航高度为
+ 100 m）。返航过程中，若光照等环境条件不符合视觉系统的需求，则飞行器无法躲避障碍物。</p>
+      <p>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic22_image008.png" />
+        </fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic22_image009.png" />禁飞区将对自动返航造成影响，可能无法完成自动返航，请避免在禁飞区附近飞行。风速过大时，可能导致飞行器无法成功返航，请谨慎飞行。</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic22_image010.png" />请在飞行器的返航路径上始终留意细小物体（如：树枝或电线等），或透明物体（如：玻璃或水面）， 在紧急情况下停止返航并手动控制飞行器。</p>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic22_image011.png" />
+                  </fig>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic22_image012.png" />若光照等环境条件符合视觉系统的需求，但是飞行器周围环境过于复杂而无法完成自动返航，将退出自动返航。</p>
+    </result>
+  </taskbody>
+</task>

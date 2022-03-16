@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept xml:lang="zh-CN" id="A75A3AD4-245B5F2-5A7D1151759D98D-8A30EB">
+  <title>拆卸</title>
+  <conbody>
+    <p>
+      <table>
+        <tgroup cols="1" colsep="1" rowsep="1">
+          <colspec colname="c1" align="left" />
+          <tbody>
+            <row>
+              <entry colname="c1">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic35_image002.png" />
+                </fig>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+ 用力按压桨帽到底，然后沿螺旋桨所示锁紧方向反向旋转螺旋桨，即可拆卸。</p>
+    <p>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic35_image004.png" /> 由于桨叶较薄，请小心操作以防意外划伤。</p>
+    <p>
+      <fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic35_image006.png" />
+      </fig>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic35_image008.png" />
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic35_image006.png" />请使用 DJI 提供的螺旋桨，不可混用不同型号的螺旋桨。螺旋桨为易损耗品，如有需要，请另行购买。</p>
+    <p>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic35_image006.png" />每次飞行前请检查螺旋桨是否安装正确和紧固。</p>
+    <p>
+      <fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic35_image008.png" />
+      </fig>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic35_image006.png" />每次飞行前请务必检查各螺旋桨是否完好。如有老化、破损或变形，请更换后再飞行。请勿贴近旋转的螺旋桨和电机，以免割伤。</p>
+    <p>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic35_image008.png" />收纳时，请根据收纳包结构正确放置飞行器，错误放置将会挤压螺旋桨，导致螺旋桨变形、动力性能下降。</p>
+    <p>
+      <fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic35_image006.png" />
+      </fig>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic35_image008.png" />确保电机安装牢固、电机内无异物并且能自由旋转。若电机无法自由转动，请立刻执行降落动作。请勿自行改装电机物理结构。</p>
+    <p>
+      <fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic35_image006.png" />
+      </fig>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic35_image008.png" />电机停止转动后，请勿立刻用手直接接触电机，否则可能造成烫伤。请勿遮挡电机通风孔以及飞行器壳体上的通风孔。</p>
+    <p>
+      <table>
+        <tgroup cols="1" colsep="1" rowsep="1">
+          <colspec colname="c1" align="left" />
+          <tbody>
+            <row>
+              <entry colname="c1">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic35_image002.png" />
+                </fig>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic35_image006.png" />确保飞行器电源开启后，电调有发出提示音。</p>
+  </conbody>
+</concept>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<task xml:lang="zh-CN" id="ABA3A4AD-42415B4-3451F54A791155A-74175A">
+  <title>自动降落</title>
+  <shortdesc>用户可选择使用自动降落功能：</shortdesc>
+  <taskbody>
+    <context>
+    </context>
+    <steps>
+      <step>
+        <cmd>确认安全降落条件，点击“<image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic75_image002.png" />”，长按按钮确定进入自动降落。</cmd>
+      </step>
+      <step>
+        <cmd>飞行器下降过程中，用户可以通过点击屏幕的 <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic75_image004.png" /> 按钮可以退出自动降落过程。</cmd>
+      </step>
+      <step>
+        <cmd>视觉系统正常工作时，降落保护生效。</cmd>
+      </step>
+      <step>
+        <cmd>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic75_image005.png" />飞行器降落至地面并自行关闭电机。</cmd>
+      </step>
+    </steps>
+    <result>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic75_image006.png" />
+                  </fig>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic75_image008.png" /> 请选择合适的场地降落。</p>
+      <p>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic75_image009.png" />
+        </fig>
+      </p>
+      <p>手动启动 / 停止电机</p>
+    </result>
+  </taskbody>
+</task>

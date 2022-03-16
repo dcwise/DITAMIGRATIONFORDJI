@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept xml:lang="zh-CN" id="A7B5A4A4-2153B41-1F5A87F13525A41-7A14C4">
+  <title>飞行器状态指示灯</title>
+  <shortdesc>DJI Mavic 3 机身上包含机头 LED 指示灯以及飞行器状态指示灯。</shortdesc>
+  <conbody>
+    <p>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic17_image002.png" />机头 LED 指示灯</p>
+    <p>机头 LED
+ 指示灯</p>
+    <p>飞行器状态指示灯</p>
+    <p>飞行器状态指示灯</p>
+    <p>机头 LED 指示灯用于指示飞行器的机头方向，飞行器开启且电机未启动时将显示红灯常亮。</p>
+    <p>飞行器电机未启动时，飞行器状态指示灯指示当前飞控系统的状态。请参考下表了解不同的闪灯方式所表示的飞控系统状态。</p>
+  </conbody>
+</concept>

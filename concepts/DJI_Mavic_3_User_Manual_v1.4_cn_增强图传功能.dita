@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept xml:lang="zh-CN" id="ABAA4AD4-5B5B512-14A8712A75E51F4-97663F">
+  <title>增强图传功能</title>
+  <shortdesc>增强图传结合了 O3+ 和 4G 自动增强图传技术。在
+ O3+ 图传信号良好的情况下，4G 链路将保持基础连接但不进行数据传输，以达到高画质与低延迟的目的，同时降低
+ 4G 流量消耗。在O3+ 图传受到干扰或遮挡或远距离传输场景下，4G 图传将自动开启，进入增强传输阶段。在O3+ 图传断开后，4G 图传将独立工作，此时图传将完全通过 4G 网络传输。</shortdesc>
+  <conbody>
+    <p>4G 增强图传功能要求使用 DJI Cellular
+ 模块以及 nanoSIM 卡。</p>
+    <p>飞行器需通过 Mavic 3 DJI Cellular 模块安装套件安装
+ DJI Cellular 模块（均需额外购买），DJI RC Pro 遥控器需单独安装 DJI Cellular 模块，DJI RC-N1 遥控器则可通过手机 4G 移动网络实现数据传输，无需另外安装
+ DJI Cellular 模块。</p>
+    <p>4G 增强图传将消耗流量。在完全使用 4G 链路进行图传业务的情况下，飞行 30 分钟飞行器端和遥控器端将消耗最大 1GB 左右的流量，其它情况下具体的流量消耗和用户的实际飞行密切相关。</p>
+  </conbody>
+</concept>

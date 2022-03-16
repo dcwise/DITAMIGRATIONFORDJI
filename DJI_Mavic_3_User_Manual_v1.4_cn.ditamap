@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd"[
+
+<!-- Begin Document Specific Declarations -->
+<!-- End Document Specific Declarations -->
+
+]>
+<bookmap xml:lang="zh-CN" id="bookmap-1">
+  <title>用户手册</title>
+  <bookmeta>
+    <author type="contributor">RAYFAN</author>
+    <critdates>
+      <!--RAYFAN-->
+      <revised modified="2022-03-16"/>
+    </critdates>
+    <metadata>
+      <data name="产品类别" value="Everest "/>
+      <data name="产品版本" value=""/>
+      <data name="手册类型" value="规格书"/>
+      <data name="手册秘级" value="秘密"/>
+    </metadata>
+  </bookmeta>
+  <frontmatter>
+    <booklists>
+      <toc />
+    </booklists>
+  </frontmatter>
+  <chapter href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_concept1.dita">
+    <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_阅读提示.dita" />
+  </chapter>
+  <chapter href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_产品概述.dita">
+    <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_产品概述1.dita">
+      <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_简_介.dita">
+        <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_功能亮点.dita" />
+        <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_准备飞行器.dita" />
+        <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_准备遥控器.dita" />
+        <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_激活_dji_mavic_3_飞行器.dita" />
+        <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_绑定飞行器与遥控器.dita" />
+        <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_升级.dita" />
+      </topicref>
+      <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_部件名称.dita">
+        <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_飞行器.dita" />
+        <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_dji_rc_pro_遥控器.dita" />
+        <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_rc_n1_遥控器.dita" />
+      </topicref>
+    </topicref>
+  </chapter>
+  <chapter href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_飞行器.dita">
+    <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_飞行器状态指示灯.dita">
+      <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_飞行器状态指示灯说明.dita" />
+      <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_自动返航.dita">
+        <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_智能返航.dita" />
+        <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_智能低电量返航.dita" />
+        <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_失控返航.dita" />
+        <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_降落保护.dita" />
+        <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_精准降落.dita" />
+      </topicref>
+      <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_视觉与红外传感系统.dita">
+        <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_观测范围.dita" />
+        <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_使用场景.dita" />
+      </topicref>
+      <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_智能飞行功能.dita">
+        <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_焦点跟随.dita" />
+        <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_大师镜头.dita" />
+        <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_延时摄影.dita" />
+        <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_一键短片.dita" />
+        <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_使用步骤.dita" />
+        <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_安装.dita" />
+        <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_拆卸.dita" />
+      </topicref>
+      <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_智能飞行电池.dita">
+        <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_使用智能飞行电池.dita" />
+        <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_充_电.dita" />
+        <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_充电保护指示信息.dita" />
+        <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_安装电池.dita" />
+        <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_拆卸电池.dita" />
+      </topicref>
+      <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_云台相机.dita">
+        <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_云台概述.dita" />
+        <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_云台跟随模式.dita" />
+        <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_云台轴锁功能.dita" />
+        <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_相机概述.dita" />
+        <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_影像储存方式.dita" />
+      </topicref>
+    </topicref>
+  </chapter>
+  <chapter href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_遥控器.dita">
+    <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_dji_rc_pro.dita">
+      <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_操作.dita" />
+      <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_concept32.dita" />
+      <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_task20.dita">
+        <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_触摸屏操作.dita" />
+      </topicref>
+      <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_concept34.dita" />
+      <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_task21.dita">
+        <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_遥控器高级功能.dita" />
+        <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_操作1.dita" />
+      </topicref>
+      <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_concept36.dita" />
+      <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_concept37.dita">
+        <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_遥控器对频.dita" />
+      </topicref>
+    </topicref>
+  </chapter>
+  <chapter href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_dji_fly_app.dita">
+    <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_主_页.dita">
+      <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_附近航拍点.dita" />
+      <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_学院.dita" />
+      <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_相册.dita" />
+      <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_天空之城.dita" />
+      <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_我的.dita" />
+      <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_相机界面.dita" />
+    </topicref>
+  </chapter>
+  <chapter href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_飞_行.dita">
+    <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_飞行环境要求.dita" />
+    <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_飞行限制以及特殊区域限飞.dita">
+      <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_禁飞区.dita" />
+      <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_飞行前检查.dita">
+        <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_自动起飞.dita" />
+        <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_自动降落.dita" />
+        <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_启动电机.dita" />
+        <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_停止电机.dita" />
+        <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_空中停机.dita" />
+        <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_基础飞行步骤.dita" />
+        <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_航拍提示和技巧.dita" />
+      </topicref>
+    </topicref>
+  </chapter>
+  <chapter href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_附_录.dita">
+    <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_附_录1.dita">
+      <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_规格参数.dita" />
+      <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_增强图传功能.dita">
+        <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_安装_dji_cellular_模块.dita" />
+        <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_开启增强图传.dita" />
+        <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_安全策略.dita" />
+        <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_遥控器使用注意.dita" />
+        <topicref href="tasks/DJI_Mavic_3_User_Manual_v1.4_cn_g_传输网络要求.dita" />
+      </topicref>
+      <topicref href="concepts/DJI_Mavic_3_User_Manual_v1.4_cn_售后保修信息.dita" />
+    </topicref>
+  </chapter>
+</bookmap>

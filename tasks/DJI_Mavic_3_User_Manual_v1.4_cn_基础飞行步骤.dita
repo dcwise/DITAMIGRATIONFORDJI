@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<task xml:lang="zh-CN" id="A7BA4AD4-241B453-511154879152577-A36867">
+  <title>基础飞行步骤</title>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>把飞行器放置在平整开阔地面上，用户面朝机尾。</cmd>
+      </step>
+      <step>
+        <cmd>开启遥控器和飞行器。</cmd>
+      </step>
+      <step>
+        <cmd>运行 DJI Fly App，进入相机界面。</cmd>
+      </step>
+      <step>
+        <cmd>等待飞行器自检完成，DJI Fly 无异常提示即可启动电机。</cmd>
+      </step>
+      <step>
+        <cmd>往上缓慢推动油门杆，让飞行器平稳起飞。</cmd>
+      </step>
+      <step>
+        <cmd>下拉油门杆使飞行器下降。</cmd>
+      </step>
+      <step>
+        <cmd>落地后，将油门杆拉到最低的位置并保持
+ 3 秒以上直至电机停止。</cmd>
+      </step>
+      <step>
+        <cmd>停机后依次关闭飞行器和遥控器电源。</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

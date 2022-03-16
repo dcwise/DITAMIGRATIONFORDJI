@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<task xml:lang="zh-CN" id="A53A4AD2-15B5F51-11587552A717564-7CBD25">
+  <title>延时摄影</title>
+  <shortdesc>延时摄影包含自由延时、环绕延时、定向延时、轨迹延时四个子模式。</shortdesc>
+  <taskbody>
+    <context>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic31_image018.png" />
+                  </fig>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </p>
+      <p>自由延时</p>
+      <p>通过设置参数，飞行器将在设定时间内自动拍摄一定数量的照片，并生成延时视频。未起飞状 态下，可在地面进行拍摄；起飞状态下用户可以通过打杆自由控制飞行器和云台角度。使用步骤：</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>设置拍摄参数，包括拍摄间隔、合成视频时长。屏幕将显示拍摄张数和拍摄时间。</cmd>
+      </step>
+      <step>
+        <cmd>点击拍摄按键开始拍摄。</cmd>
+      </step>
+    </steps>
+    <result>
+      <p>定速巡航功能：在操控界面配置遥控器自定义按键（DJI RC Pro 的 C1 和 C2，或 RC-N1 的Fn）的功能为定速巡航，在打杆时按下自定义按键进入定速巡航，此时飞行器将保持进入时的飞行速度进行拍摄。</p>
+      <p>环绕延时</p>
+      <p>选取目标，飞行器将在环绕目标飞行的过程中拍摄延时影像。使用步骤：</p>
+      <ol>
+        <li>设置拍摄参数，包括拍摄间隔、合成视频时长、环绕方向等。屏幕将显示拍摄张数和拍摄时间。</li>
+        <li>框选目标。使用云俯仰控制拨轮和偏航杆可调节构图。</li>
+        <li>点击拍摄按键开始拍摄。</li>
+      </ol>
+      <p>定向延时</p>
+      <p>选取目标及航向，飞行器将在定向飞行的过程中拍摄延时影像。定向模式下也可以不选择目标， 只定向飞行，在只定向的情况下可打杆控制机头朝向和云台。使用步骤：</p>
+      <ol>
+        <li>设置拍摄参数，包括拍摄间隔、合成视频时长。屏幕将显示拍摄张数和拍摄时间。</li>
+        <li>设定航向。</li>
+        <li>框选目标（可不选），使用云台俯仰拨轮和偏航杆可调节构图。</li>
+        <li>点击拍摄按键开始拍摄。</li>
+      </ol>
+      <p>轨迹延时</p>
+      <p>除了设置拍摄参数，还需要选定多个关键点位置和镜头朝向，飞行器将按照关键点信息生成轨迹拍摄延时影像，开始拍摄前可选择关键点的正序和倒序飞行。使用步骤：</p>
+      <ol>
+        <li>设置关键点位置和镜头朝向。</li>
+        <li>设置拍摄参数，包括拍摄间隔、合成视频时长。屏幕将显示拍摄张数和拍摄时间。</li>
+        <li>点击拍摄按键开始拍摄。</li>
+      </ol>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic31_image019.png" />
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic31_image020.png" />拍摄完成后飞行器将自动合成视频，用户可在回放中查看。用户可在系统设置—拍摄设置中选择是否保存原片以及原片的保存位置（机身内置存储或 SD 卡）。</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic31_image022.png" /> 请建议飞行在 50 m 或以上的高度拍摄延时影像以获得更好的效果，并且推荐设置拍摄间隔时间与快门时间至少相隔 2 s 以上。</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic31_image023.png" />建议选取距离 &gt;15 m 的静态景物，比如大楼、山、房子等，不建议选取近处的地面、人、移动的车等目标。</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic31_image024.png" />延时摄影中，若环境符合视觉系统生效条件，当飞行器检测到的障碍物时将提前减速并刹车悬停， 不会绕行。若在延时摄影过程中环境发生变化（如光线变暗），由符合视觉系统生效条件变为不符合，飞行器将关闭视觉系统并继续拍摄，此时不能躲避障碍物，请小心操作。</p>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic31_image025.png" />
+                  </fig>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic31_image023.png" />当拍照张数超过 25 张（生成视频可以大于 1 秒）时，不管延时摄影正常完成或异常退出（如低电量返航），飞行器均会默认为用户合成视频。</p>
+    </result>
+  </taskbody>
+</task>

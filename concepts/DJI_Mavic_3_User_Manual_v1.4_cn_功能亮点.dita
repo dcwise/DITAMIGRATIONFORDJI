@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept xml:lang="zh-CN" id="A74AA4AD-4241B45-11F2158715257D1-DC8FD0">
+  <title>功能亮点</title>
+  <shortdesc>云台相机性能：DJI Mavic 3 配备主相机哈苏 L2D-20c，采用 4/3 CMOS，有效像素 2000 万， 支持原生 12.8 档动态范围和 f/2.8 至 f/11 可变光圈，可稳定拍摄
+ 5.1K 50 fps/DCI 4K 120 fps 的Apple ProRes 422 HQ* 格式或
+ H.264/H.265 格式超高清视频。支持拍摄 10 bit D-Log 视频，获得更大的动态范围，便于后期调色。另配备长焦相机，通过探索模式可快速捕捉最高
+ 28 倍变焦影像。</shortdesc>
+  <conbody>
+    <p>图传性能：DJI Mavic 3 使用
+ O3+（OCUSYNC<sup>TM</sup> 3.0+）图传技术，在无干扰和无遮挡环境下， 可达到最大
+ 15 km 通信距离与最高
+ 1080p 60fps 高清图传；支持 2.4 GHz 和 5.8 GHz 双频段， 并可智能切换。</p>
+    <p>智能飞行功能：高级辅助飞行
+ 5.0 能在用户保持打杆飞行的情况下主动绕开障碍物，全向避障使飞行更智能安全。</p>
+    <p>
+      <table>
+        <tgroup cols="1" colsep="1" rowsep="1">
+          <colspec colname="c1" align="left" />
+          <tbody>
+            <row>
+              <entry colname="c1">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic6_image001.png" />
+                </fig>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+ * DJI Mavic 3 Cine 与 DJI Mavic 3
+ 飞行器区别在于 DJI Mavic 3 Cine
+ 机身内置 1TB SSD，并支持 Apple ProRes 422 HQ 视频录制，此功能为 Mavic 3 飞行器所不具有。如无特别指出，本文所描述均为 DJI Mavic 3 Cine
+ 与 DJI Mavic 3 通用功能特性。</p>
+    <p>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic6_image003.png" /> 飞行器最大飞行速度为海平面附近无风环境下测得（欧盟地区最大飞行速度为68.4 km/h（19 m/s））。最长飞行时间为无风环境时以 32.4 km/h 匀速飞行时测得。</p>
+    <p>
+      <fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic6_image004.png" />
+      </fig>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic6_image005.png" />在开阔无遮挡、无电磁干扰的环境飞行，并且飞行高度为 120 m 左右，在 FCC 标准下遥控器可以达到最大通信距离（单程不返航）。遥控器最长可工作时间为实验环境下测得，仅供参考。</p>
+    <p>
+      <table>
+        <tgroup cols="1" colsep="1" rowsep="1">
+          <colspec colname="c1" align="left" />
+          <tbody>
+            <row>
+              <entry colname="c1">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic6_image001.png" />
+                </fig>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic6_image006.png" />部分国家地区不支持 5.8 GHz 频段使用，请了解当地法律法规后合理使用。</p>
+    <p>首次使用</p>
+    <p>DJI Mavic 3 出厂时处于收纳状态，请按照以下步骤准备飞行器和遥控器。</p>
+  </conbody>
+</concept>

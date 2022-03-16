@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<task xml:lang="zh-CN" id="A7B5AAAD-453B451-F248D2545A1CE7E-55E1A3">
+  <title>智能飞行电池</title>
+  <shortdesc>DJI Mavic 3 智能飞行电池是一款容量为 5000 mAh、额定电压为 15.4 V、带有充放电管理功能的电池。该款电池采用高能电芯，并使用先进的电池管理系统。</shortdesc>
+  <taskbody>
+    <context>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic36_image002.png" />
+                  </fig>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </p>
+      <p>智能飞行电池功能</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>电量显示：电池自带电量指示灯，可以显示当前电池电量。</cmd>
+      </step>
+      <step>
+        <cmd>电池存储自放电保护：充满电后放置 3 天，自动放电至 96% 电量。累计放置并在无任何操作 9 天后，电池将放电至 60% 电量（期间可能会有轻微发热，属正常现象）以保护电池。</cmd>
+      </step>
+      <step>
+        <cmd>平衡保护：自动平衡电池内部电芯电压，以保护电池。</cmd>
+      </step>
+      <step>
+        <cmd>过充电保护：过度充电会严重损伤电池，当电池充满后自动会停止充电。</cmd>
+      </step>
+      <step>
+        <cmd>充电温度保护：电池温度为 5℃以下或 40℃以上时充电会损坏电池，在此温度时电池将不启动充电。</cmd>
+      </step>
+      <step>
+        <cmd>充电过流保护：大电流充电将严重损伤电池，当充电电流过大时，电池会停止充电。</cmd>
+      </step>
+      <step>
+        <cmd>过放电保护：过度放电会严重损伤电池。电池不用于飞行时，放电至一定电压时电池会切断输出。飞行过程中电池不会启用过放电保护。</cmd>
+      </step>
+      <step>
+        <cmd>短路保护：在电池检测到短路的情况下会切断输出，以保护电池。</cmd>
+      </step>
+      <step>
+        <cmd>电芯损坏检测：在电池检测到电芯损坏或者电芯严重不平衡的情况下，会提示电池已经损坏。</cmd>
+      </step>
+      <step>
+        <cmd>休眠保护：当电池处于开启状态时，若未连接任何用电设备，电池在 20 分钟后关闭输出， 同时会进入到关闭状态，以保持电量。当电池电量低于
+ 5% 时，6 小时后电池将自动进入休眠状态以防止过放。此时短按电池开关电量指示灯不会亮起，使用充电器对电池充电即 可唤醒。</cmd>
+      </step>
+      <step>
+        <info>
+          <table>
+            <tgroup cols="1" colsep="1" rowsep="1">
+              <colspec colname="c1" align="left" />
+              <tbody>
+                <row>
+                  <entry colname="c1">
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic36_image004.png" />
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic36_image006.png" />通讯：飞行器可以通过电池上的通讯接口实时获得电池信息，例如电压、电量、电流等。</info>
+      </step>
+    </steps>
+    <result>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic36_image008.png" /> 使用电池前请详细阅读并严格遵守 DJI
+ 在本手册、安全概要和电池表面贴纸上的要求。未按要求使用造成的后果由用户承担。</p>
+      <p>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic36_image009.png" />
+        </fig>
+      </p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic36_image011.png" />
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic36_image013.png" />
+        </fig>
+      </p>
+    </result>
+  </taskbody>
+</task>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept xml:lang="zh-CN" id="A3A4D424-B45B451-F2148A5251B7750-5EB1BD">
+  <title>DJI RC Pro</title>
+  <shortdesc>DJI RC Pro 遥控器采用 O3+ 高清图传技术，工作在 5.8 GHz 和 2.4 GHz 两个通信频段，并可智能切换，支持实时传输 1080p 60fps 高清画面。配合完备的功能按键，可在最大 15 千米通信距离内完成飞行器与相机的操作与设置，内置 5.5 英寸 1920×1080p 高亮触摸屏，最高亮度达1000 cd/m<sup>2</sup>。采用 Android 10 系统，内置 GPS+GLONASS+GALILEO 三模卫星定位模块，具备蓝牙功能。支持通过 Wi-Fi 连接至互联网。</shortdesc>
+  <conbody>
+    <p>遥控器内置扬声器，可播放
+ H.264 4K/120fps 以及
+ H.265 4K/120fps 视频素材，支持通过
+ Mini HDMI 接口扩展显示。内部存储容量为
+ 32 GB，支持使用 microSD 卡扩展存储容量，将所需文件及拍摄图像保存至 microSD 卡后可方便导入电脑等其他设备。</p>
+    <p>遥控器摇杆可拆卸，电池容量为 5000 mAh，能量为 36 Wh，最长工作时间约为 3 小时。</p>
+  </conbody>
+</concept>

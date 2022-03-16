@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept xml:lang="zh-CN" id="AB5A2414-5BF51F2-812525A175764E1-245A65">
+  <title>飞行器</title>
+  <shortdesc>本章介绍飞行器的系统组成，以及各功能特点。</shortdesc>
+  <conbody>
+    <p id="_bookmark4">飞行器</p>
+    <p>概述</p>
+    <p>飞行器主要由飞控系统、通讯系统、视觉系统、动力系统、以及智能飞行电池组成，本章节将详细介绍各部分的功能。</p>
+    <p>飞行挡位</p>
+    <p>DJI Mavic 3 支持普通、运动和平稳三种飞行挡位，可通过遥控器飞行挡位切换开关切换。</p>
+    <p>普通（Normal）：使用 GNSS 模块和水平全向、上视以及下视视觉系统、红外传感系统以实现飞行器精确悬停、稳定飞行、智能飞行功能等。GNSS 信号良好时，利用 GNSS 可精准定位； GNSS 信号欠佳，光照等环境条件满足视觉系统需求时利用视觉系统定位。开启避障功能且光照等环境条件满足视觉系统需求时，最大飞行姿态角为 30°，最大飞行速度 15 m/s。</p>
+    <p>运动（Sport）：使用 GNSS 模块、下视视觉系统实现飞行器精确悬停和稳定飞行。飞行器操控感度经过调整，最大飞行速度将会提升至
+ 21 m/s（欧盟地区为 19 m/s）。使用运动模式飞行时，
+ 视觉避障功能自动关闭。</p>
+    <p>平稳模式（Cine）：平稳模式在普通模式的基础上限制了最大飞行速度、上升、下降速度，使飞行器在拍摄过程中更稳定。</p>
+    <p>在 GNSS 卫星信号差或者指南针受干扰、并且不满足视觉定位工作条件时，飞行器将进入姿态</p>
+    <p>
+      <table>
+        <tgroup cols="1" colsep="1" rowsep="1">
+          <colspec colname="c1" align="left" />
+          <tbody>
+            <row>
+              <entry colname="c1">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic16_image001.png" />
+                </fig>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+ （ATTI） 模式。姿态模式下，飞行器会在水平方向将会产生漂移；并且视觉系统以及部分智能飞行功能将无法使用。因此，该模式下飞行器自身无法实现定点悬停以及自主刹车，应尽快降落到安全位置以避免发生事故。应当尽量避免在 GNSS 卫星信号差以及狭窄空间飞行，以免进入姿态模式，导致飞行事故。</p>
+    <p>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic16_image003.png" /> 在使用运动挡飞行时，视觉系统不会生效，飞行器无法主动刹车和躲避障碍物，用户务必留意周围环境，操控飞行器躲避飞行路线上的障碍物。</p>
+    <p>
+      <fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic16_image004.png" />
+      </fig>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic16_image005.png" />在使用运动挡飞行时，飞行器的飞行速度较普通挡相比将大幅度提升，由此造成刹车距离也相应地大幅度增加。在无风环境下飞行时，用户应预留至少 30 m 的刹车距离以保障飞行安全。</p>
+    <p>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic16_image006.png" />在使用运动挡和普通挡的在无风环境下上升或下降飞行时， 用户应预留至少 10 m 的刹车距离以保障飞行安全。</p>
+    <p>
+      <table>
+        <tgroup cols="1" colsep="1" rowsep="1">
+          <colspec colname="c1" align="left" />
+          <tbody>
+            <row>
+              <entry colname="c1">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic16_image001.png" />
+                </fig>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic16_image007.png" />在使用运动挡飞行时，飞行器的姿态控制灵敏度与普通挡相比将大幅度提升，具体表现为遥控器上小幅度的操作会导致飞行器产生大幅度的飞行动作。实际飞行时，用户应预留足够的飞行空间以保障飞行安全。</p>
+  </conbody>
+</concept>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<task xml:lang="zh-CN" id="A4A445B4-451118C-7525741532A9944-82CFF7">
+  <title>降落保护</title>
+  <shortdesc>若用户通过遥控器、DJI Fly App 手动触发返航或自动降落，当飞行器降落时，降落保护功能生效。飞行器具体表现为：</shortdesc>
+  <taskbody>
+    <context>
+    </context>
+    <steps>
+      <step>
+        <cmd>若飞行器降落保护功能正常且检测到地面可降落时，飞行器将直接降落。</cmd>
+      </step>
+      <step>
+        <cmd>若飞行器降落保护功能正常，但检测结果为不适合降落时（例如下方为不平整地面或水面）， 则飞行器悬停，等待用户操作。</cmd>
+      </step>
+      <step>
+        <cmd>若飞行器无法判定是否适合降落，则下降到离地面 0.5 m 时，App 将提示用户是否需要继续降落。点击确认或下拉油门持续 1
+ s 后，飞行器降落。</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

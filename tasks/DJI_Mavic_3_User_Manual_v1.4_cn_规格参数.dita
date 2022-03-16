@@ -1,0 +1,920 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<task xml:lang="zh-CN" id="ABAD214B-51124A8-61752475AA91BD0-2F66BC">
+  <title>规格参数</title>
+  <taskbody>
+    <context>
+      <table>
+        <tgroup cols="2" colsep="1" rowsep="1">
+          <colspec colname="col1" />
+          <colspec colname="col2" />
+          <tbody>
+            <row>
+              <entry colname="col1">
+                <p>飞行器</p>
+                <p>起飞重量</p>
+              </entry>
+              <entry colname="col2">
+                <p>895 g (Mavic 3)</p>
+                <p>899 g (Mavic 3 Cine)</p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 尺寸 （长×宽× 高） </entry>
+              <entry colname="col2">
+                <p>折叠（不带桨）：221 mm × 96.3 mm × 90.3 mm</p>
+                <p>展开（不带桨）：347.5 mm × 283 mm × 107.7 mm</p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 对角线轴距 </entry>
+              <entry colname="col2"> 380.1 mm </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 最大上升速度 </entry>
+              <entry colname="col2">
+                <p>8 m/s（运动挡）</p>
+                <p>6 m/s（普通挡）</p>
+                <p>1 m/s（平稳挡）</p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 最大下降速度 </entry>
+              <entry colname="col2">
+                <p>6 m/s（运动挡）</p>
+                <p>6 m/s（普通挡）</p>
+                <p>1 m/s（平稳挡）</p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <p>最大水平飞行速度</p>
+                <p>（海平面附近无风情况下）</p>
+              </entry>
+              <entry colname="col2">
+                <p>21 m/s（运动挡），19 m/s（运动挡，欧盟地区）</p>
+                <p>15 m/s（普通挡）</p>
+                <p>5 m/s（平稳挡）</p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 最大起飞海拔高度 </entry>
+              <entry colname="col2"> 6000 m </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 最长飞行时间 </entry>
+              <entry colname="col2"> 46 分钟（无风环境 32.4 Km/h 匀速飞行） </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>最大续航里程 30
+ km</p>
+      <p>最长悬停时间 40 分钟（无风环境）</p>
+      <p>最大可抗风速度 12 m/s</p>
+      <p>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic83_image001.png" />
+        </fig>
+      </p>
+      <p>工作环境温度 -10℃
+ 至 40℃</p>
+      <p>最大旋转角速度 200°/s</p>
+      <p>GNSS GPS + Galileo + BEIDOU</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic83_image002.png" />
+      </p>
+      <p>机载内存 Mavic 3：8 GB（可用空间约 7.2 GB）</p>
+      <p>Mavic 3 Cine：1TB（可用空间约 934.8 GB）</p>
+      <p>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic83_image003.png" />
+        </fig>
+      </p>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic83_image004.png" />
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+ 影像传感器 4/3 CMOS，有效像素 2000 万</p>
+      <p>ISO 范围 视频：100-6400</p>
+      <p>电子快门速度 1/8000 s 至 8 s</p>
+      <p>照片：100-6400</p>
+      <p>最大照片尺寸 主相机：5280 × 3956</p>
+      <p>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic83_image005.png" />
+        </fig>
+      </p>
+      <table>
+        <tgroup cols="2" colsep="1" rowsep="1">
+          <colspec colname="col1" />
+          <colspec colname="col2" />
+          <tbody>
+            <row>
+              <entry colname="col1"> 录像编码及分辨率 </entry>
+              <entry colname="col2">
+                <p>Apple ProRes 422 HQ</p>
+                <p>5.1K：5120 × 2700@24/25/30/48/50fps</p>
+                <p>DCI 4K：4096 × 2160@24/25/30/48/50/60/120*fps</p>
+                <p>4K：3840 × 2160@24/25/30/48/50/60/120*fps</p>
+                <p>H.264/H.265</p>
+                <p>5.1K：5120 × 2700@24/25/30/48/50fps</p>
+                <p>DCI 4K：4096 × 2160@24/25/30/48/50/60/120*fps</p>
+                <p>4K：3840 × 2160@24/25/30/48/50/60/120*fps FHD：1920 × 1080@24/25/30/48/50/60/120*/200*fps</p>
+                <p>* 帧率数字为记录帧率，播放时默认表现为慢动作视频</p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 视频最大码率 </entry>
+              <entry colname="col2"> H.264/H.265 码率 : 200 Mbps </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 支持文件系统 </entry>
+              <entry colname="col2"> exFAT </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 图片格式 </entry>
+              <entry colname="col2"> JPEG/DNG（RAW） </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 视频格式 </entry>
+              <entry colname="col2">
+                <p>Mavic 3：</p>
+                <p>MP4/MOV（MPEG-4 AVC/H.264，HEVC/H.265）</p>
+                <p>Mavic 3 Cine：</p>
+                <p>MP4/MOV（MPEG-4 AVC/H.264，HEVC/H.265）</p>
+                <p>MOV（Apple ProRes 422 HQ）</p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 长焦相机 </entry>
+              <entry colname="col2">
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 影像传感器 </entry>
+              <entry colname="col2"> 1/2 英寸 CMOS </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 镜头 </entry>
+              <entry colname="col2">
+                <p translate="no">视角：15°</p>
+                <p>等效焦距：162 mm</p>
+                <p>光圈：f/4.4</p>
+                <p>焦点范围：3 m 至无穷远</p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> ISO 范围 </entry>
+              <entry colname="col2" translate="no"> 视频：100-6400 照片：100-6400 </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 电子快门速度 </entry>
+              <entry colname="col2"> 1/8000 s 至 2 s </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 最大照片尺寸 </entry>
+              <entry colname="col2" translate="no"> 4000 × 3000 </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 图片格式 </entry>
+              <entry colname="col2"> JPEG </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 视频格式 </entry>
+              <entry colname="col2"> MP4/MOV（MPEG-4 AVC/H.264，HEVC/H.265） </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 照片拍摄模式及参数 </entry>
+              <entry colname="col2" translate="no"> 单拍：1200 万像素 </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 视频编码及分辨率 </entry>
+              <entry colname="col2">
+                <p>H.264/H.265</p>
+                <p>4K：3840 × 2160@30fps FHD：1920 × 1080@30fps</p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 数字变焦 </entry>
+              <entry colname="col2" translate="no"> 4 倍 </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 云台 </entry>
+              <entry colname="col2">
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 稳定系统 </entry>
+              <entry colname="col2" translate="no"> 3 轴机械云台（俯仰、横滚、平移） </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 结构设计范围 </entry>
+              <entry colname="col2" translate="no">
+                <p>俯仰：-135°至 100°</p>
+                <p>横滚：-45°至 45°</p>
+                <p>平移：-27°至 27°</p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 可控转动范围 </entry>
+              <entry colname="col2" translate="no">
+                <p>俯仰：-90°至 35°</p>
+                <p>平移：-5°至 5°</p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 最大控制转速（俯仰） </entry>
+              <entry colname="col2"> 100°/s </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 角度抖动量 </entry>
+              <entry colname="col2" translate="no"> ±0.007° </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 感知 </entry>
+              <entry colname="col2">
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 感知系统类型 </entry>
+              <entry colname="col2"> 全向双目视觉系统，辅以下红外传感器 </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table>
+        <tgroup cols="2" colsep="1" rowsep="1">
+          <colspec colname="col1" />
+          <colspec colname="col2" />
+          <tbody>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2">
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 前视 </entry>
+              <entry colname="col2">
+                <p>测距范围：0.5 m 至 20 m</p>
+                <p>可探测范围：0.5 m 至 200 m</p>
+                <p>有效避障速度：飞行速度 ≤ 15 m/s</p>
+                <p>视角（FOV）：水平 90°，垂直 103°</p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 后视 </entry>
+              <entry colname="col2">
+                <p>测距范围：0.5 m 至 16 m</p>
+                <p>有效避障速度：飞行速度 ≤ 12 m/s</p>
+                <p>视角（FOV）：水平 90°，垂直 103°</p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 侧视 </entry>
+              <entry colname="col2">
+                <p>测距范围：0.5 m 至 25 m</p>
+                <p>有效避障速度：飞行速度 ≤ 15 m/s</p>
+                <p>视角（FOV）：水平 90°，垂直 85°</p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 上视 </entry>
+              <entry colname="col2">
+                <p>测距范围：0.2 m 至 10 m</p>
+                <p>有效避障速度：飞行速度 ≤ 6 m/s</p>
+                <p>视角（FOV）：前后 100°，左右 90°</p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 下视 </entry>
+              <entry colname="col2">
+                <p>测距范围：0.3 m 至 18 m</p>
+                <p>有效避障速度：飞行速度 ≤ 6 m/s</p>
+                <p>视角（FOV）：前后 130°，左右 160°</p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 有效使用环境 </entry>
+              <entry colname="col2">
+                <p>前后左右上：表面有丰富纹理，光照条件充足（&gt; 15 lux，室内日光灯正常照射环境）</p>
+                <p>下方：地面有丰富纹理，光照条件充足（&gt; 15 lux，室内日光灯正常照射环境）表面为漫反射材质且反射率 &gt; 20%（如墙面，树木，人等）</p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 图传 </entry>
+              <entry colname="col2">
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 图传方案 </entry>
+              <entry colname="col2"> O3+ </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 实时图传质量 </entry>
+              <entry colname="col2"> 遥控器：1080p@30fps/1080p@60fps </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 工作频段 </entry>
+              <entry colname="col2">
+                <p>2.400 - 2.4835 GHz</p>
+                <p>5.725 - 5.850 GHz</p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 最大信号有效距离（无干扰、无遮挡） </entry>
+              <entry colname="col2">
+                <p>15 km (FCC)</p>
+                <p>8 km (CE/SRRC/MIC)</p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 最大下载速率 </entry>
+              <entry colname="col2">
+                <p>SDR：</p>
+                <p>5.5 MB/s（搭配 RC-N1 遥控器）</p>
+                <p>15 MB/s（搭配 DJI RC Pro）</p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 延时（视乎实际拍摄环境及移动设备） </entry>
+              <entry colname="col2">
+                <p>130 ms（搭配 RC-N1 遥控器）</p>
+                <p>120 ms（搭配 DJI RC Pro）</p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 天线 </entry>
+              <entry colname="col2"> 4 天线，2T4R </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 发射功率（EIRP） </entry>
+              <entry colname="col2">
+                <p>2.4 GHz：&lt;33 dBm（FCC），&lt;20 dBm（CE/SRRC/MIC）</p>
+                <p>5.8 GHz：&lt;33 dBm（FCC），&lt;30 dBm（SRRC），&lt;14 dBm（CE）</p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 智能飞行电池 </entry>
+              <entry colname="col2">
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 容量 </entry>
+              <entry colname="col2"> 5000 mAh </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 标称电压 </entry>
+              <entry colname="col2"> 15.4 V </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 充电限制电压 </entry>
+              <entry colname="col2"> 17.6 V </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 电池类型 </entry>
+              <entry colname="col2"> LiPo 4S </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 能量 </entry>
+              <entry colname="col2"> 77 Wh </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 重量 </entry>
+              <entry colname="col2"> 335.5 g </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 充电环境温度 </entry>
+              <entry colname="col2" translate="no"> 5℃ 至 40℃ </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 充电器 </entry>
+              <entry colname="col2">
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 输入 </entry>
+              <entry colname="col2"> 100-240 V AC，47-63 Hz，2.0 A </entry>
+            </row>
+            <row>
+              <entry colname="col1"> USB-C 输出 </entry>
+              <entry colname="col2">
+                <p>USB-C：5.0 V 5.0 A/9.0 V 5.0 A/12.0 V 5.0 A/15.0 V 4.3 A/</p>
+                <p>20.0 V 3.25 A/5.0 V~20.0 V 3.25 A</p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> USB-A 输出 </entry>
+              <entry colname="col2"> USB-A：5 V 2 A </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic83_image006.png" />
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic83_image007.png" />
+        </fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic83_image007.png" />
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic83_image006.png" />
+        </fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic83_image006.png" />
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic83_image007.png" />
+        </fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic83_image007.png" />
+      </p>
+      <p>
+        <table>
+          <tgroup cols="14" colsep="1" rowsep="1">
+            <colspec colname="col2" align="left" />
+            <colspec colname="col3" align="left" />
+            <colspec colname="col4" align="left" />
+            <colspec colname="col5" align="left" />
+            <colspec colname="col6" align="left" />
+            <colspec colname="col7" align="left" />
+            <colspec colname="col8" align="left" />
+            <colspec colname="col9" align="left" />
+            <colspec colname="col10" align="left" />
+            <colspec colname="col11" align="left" />
+            <colspec colname="col12" align="left" />
+            <colspec colname="col13" align="left" />
+            <colspec colname="col14" align="left" />
+            <colspec colname="col16" align="left" />
+            <tbody>
+              <row>
+                <entry namest="col2" nameend="col7" />
+                <entry align="left" colname="col8">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic83_image007.png" />
+                  </fig>
+                </entry>
+                <entry colname="col9" />
+                <entry colname="col10" />
+                <entry colname="col11" />
+                <entry colname="col12" />
+                <entry colname="col13" />
+                <entry colname="col14" />
+                <entry colname="col16" />
+              </row>
+              <row>
+                <entry namest="col2" nameend="col5" />
+                <entry align="left" colname="col6">
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic83_image007.png" />
+                </entry>
+                <entry namest="col7" nameend="col9" />
+                <entry namest="col10" nameend="col11" align="left">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic83_image007.png" />
+                  </fig>
+                </entry>
+                <entry namest="col12" nameend="col13" />
+                <entry align="left" colname="col14">
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic83_image006.png" />
+                </entry>
+                <entry align="left" colname="col16">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic83_image006.png" />
+                  </fig>
+                </entry>
+              </row>
+              <row>
+                <entry align="left" colname="col2">
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic83_image007.png" />
+                </entry>
+                <entry namest="col3" nameend="col10" />
+                <entry namest="col11" nameend="col12" align="left">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic83_image007.png" />
+                  </fig>
+                </entry>
+                <entry colname="col13" />
+                <entry colname="col14" />
+                <entry colname="col16" />
+              </row>
+              <row>
+                <entry namest="col2" nameend="col3" />
+                <entry align="left" colname="col4">
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic83_image006.png" />
+                </entry>
+                <entry colname="col5" />
+                <entry colname="col6" />
+                <entry colname="col7" />
+                <entry colname="col8" />
+                <entry colname="col9" />
+                <entry colname="col10" />
+                <entry colname="col11" />
+                <entry colname="col12" />
+                <entry colname="col13" />
+                <entry colname="col14" />
+                <entry colname="col16" />
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic83_image006.png" />
+        </fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic83_image007.png" />
+      </p>
+      <table>
+        <tgroup cols="2" colsep="1" rowsep="1">
+          <colspec colname="col1" />
+          <colspec colname="col2" />
+          <tbody>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2">
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 额定功率 </entry>
+              <entry colname="col2"> 65 W </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 充电管家 </entry>
+              <entry colname="col2">
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 输入 </entry>
+              <entry colname="col2"> USB-C：5 V - 20 V 5.0 A max </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 输出 </entry>
+              <entry colname="col2"> 电池接口：12 V - 17.6 V 5.0 A max </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 额定功率 </entry>
+              <entry colname="col2"> 65 W </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 充电方式 </entry>
+              <entry colname="col2" translate="no"> 3 块电池轮充 </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 充电温度范围 </entry>
+              <entry colname="col2" translate="no"> 5℃ 至 40℃ </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 车充 </entry>
+              <entry colname="col2">
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 输入 </entry>
+              <entry colname="col2"> 汽车电源接口：12.7 V 至 16 V 6.5 A，额定电压 14 V DC </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 输出 </entry>
+              <entry colname="col2">
+                <p>USB-C：5.0 V 5.0 A/9.0 V 5.0 A/12.0 V 5.0 A/15.0 V 4.3A/ 20.0 V 3.25 A/5.0 V~20.0 V 3.25 A</p>
+                <p>USB-A：5 V 2 A</p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 额定功率 </entry>
+              <entry colname="col2"> 65 W </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 充电时间 </entry>
+              <entry colname="col2" translate="no"> 约 96 分钟 </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 充电温度范围 </entry>
+              <entry colname="col2" translate="no"> 5℃ 至 40℃ </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 存储 </entry>
+              <entry colname="col2">
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 支持存储卡类型 </entry>
+              <entry colname="col2"> microSD 卡支持 SDXC、UHS-I 规格的卡，理论支持最大容量为 2 TB </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 推荐存储卡列表 </entry>
+              <entry colname="col2"> 普通视频格式推荐 SD 卡列表如下 </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2"> 对应拍摄规格： </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2"> H.265 视频编码 </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2"> 5.1K : 5120x2700@24/25/30/48/50fps </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2"> DCI 4K : 4096x2160@24/25/30/48/50/60/120fps </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2"> 4K: 3840x2160@24/25/30/48/50/60/120fps </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2"> FHD : 1920x1080@24/25/30/48/50/60/120/200fps </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2"> H.264 视频编码 </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2"> DCI 4K : 4096x2160@24/25/30/48/50/60fps </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2"> 4K : 3840x2160@24/25/30/48/50/60fps </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2"> FHD: 1920x1080@24/25/30/48/50/60/120/200fps </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2"> SanDisk Extreme Pro 64G V30 A2 microSDXC </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2"> SanDisk Extreme Pro 128G V30 A2 microSDXC </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2"> SanDisk Extreme Pro 256G V30 A2 microSDXC </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2"> SanDisk Extreme Pro 400G V30 A2 microSDXC </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2"> SanDisk High Endurance 64G V30 XC I microSDXC </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2"> SanDisk High Endurance 128G V30 XC I microSDXC </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2"> SanDisk High Endurance 256G V30 XC I microSDXC </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2"> SanDisk Extreme 128G V30 A2 microSDXC </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2"> SanDisk Extreme 256G V30 A2 microSDXC </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2"> SanDisk Extreme 512G V30 A2 microSDXC </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2"> Lexar 667x 64G microSDXC </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2"> Lexar 667x 128G microSDXC </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2"> Lexar 667x 256G microSDXC </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2"> Lexar High Endurance 64G V30 XC I microSDXC </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2"> Lexar High Endurance 128G microSDXC </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2"> Samsung Evo Plus 64G microSDXC </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2"> Samsung Evo Plus 128G microSDXC </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2"> Samsung Evo Plus 256G microSDXC </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2"> Samsung Evo Plus 512G microSDXC </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table>
+        <tgroup cols="2" colsep="1" rowsep="1">
+          <colspec colname="col1" />
+          <colspec colname="col2" />
+          <tbody>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2">
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+              </entry>
+              <entry colname="col2">
+                <p>高规格视频格式推荐 SD 卡列表如下对应拍摄规格：</p>
+                <p>H.264 视频编码</p>
+                <p>5.1K: 5120x2700@24/25/30/48/50fps</p>
+                <p>DCI 4K: 4096x2160@120fps</p>
+                <p>4K : 3840x2160@120fps</p>
+                <p>SanDisk Extreme Pro 64G V30 A2 microSDXC SanDisk Extreme Pro 128G V30 A2 microSDXC SanDisk Extreme Pro 256G V30 A2 microSDXC SanDisk Extreme Pro 400G V30 A2 microSDXC SanDisk High Endurance 64G V30 XC I microSDXC SanDisk High Endurance 128G V30 XC I microSDXC SanDisk High Endurance 256G V30 XC I microSDXC Lexar High Endurance 64G V30 XC I microSDXC Lexar High Endurance 128G microSDXC</p>
+                <p>Lexar 667x 64G microSDXC Lexar 667x 128G microSDXC</p>
+                <p>Lexar 667x 256G microSDXC</p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> SSD 参数 </entry>
+              <entry colname="col2">
+                <p>容量：1 TB</p>
+                <p>最大读速度：700 MB/s*</p>
+                <p>最大写速度：471 MB/s*</p>
+                <p>* 速度为飞行器内部的读写速率，与 PC 等外部设备的读写速度请以实际环境使用为准。</p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> RC-N1 遥控器 </entry>
+              <entry colname="col2">
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 遥控器图传 </entry>
+              <entry colname="col2">
+                <p>配合不同的无人机硬件，RC-N1 都会进行自适应选择对应的固件，以释放无人机端的硬件性能，可达到以下图传标准：</p>
+                <ol>
+                  <li>DJI Mini 2/Mavic Air 2：O2</li>
+                  <li>DJI Air 2S：O3</li>
+                  <li>DJI Mavic 3：O3+</li>
+                </ol>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 续航 </entry>
+              <entry colname="col2" translate="no"> 未给移动设备充电情况下：6 小时；给移动设备充电情况下：4 小时 </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 支持接口类型 </entry>
+              <entry colname="col2"> Lightning，Micro USB，USB-C </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 支持的最大移动设备尺寸 </entry>
+              <entry colname="col2"> 180 mm × 86 mm × 10 mm（长 × 宽 × 高） </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 工作环境温度 </entry>
+              <entry colname="col2" translate="no"> 0℃至 40℃ </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 发射功率（EIRP） </entry>
+              <entry colname="col2">
+                <p>2.4 GHz：</p>
+                <p>≤26 dBm（FCC），≤20 dBm（CE/SRRC/MIC）</p>
+                <p>5.8 GHz：</p>
+                <p>≤26 dBm（FCC/SRRC），≤14 dBm（CE）</p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>固件升级</p>
+      <p>使用 DJI Fly App 或者 DJI Assistant 2 (Consumer Drones
+ Series) 调参软件对飞行器和遥控器进行升级。</p>
+      <p>使用
+ DJI Fly App 升级</p>
+      <p>连接飞行器与遥控器（若飞行器未与遥控器连接则无法升级）后运行 DJI Fly，根据 DJI Fly 的提示进行固件升级。升级时需连接互联网。</p>
+      <p>使用 DJI Assistant 2 (Consumer Drones
+ Series) 升级</p>
+      <p>使用 DJI Assistant 2 (Consumer Drones
+ Series) 调参软件分别升级遥控器与飞行器。</p>
+      <p>飞行器升级步骤如下：</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>启动 DJI Assistant
+ 2 (Consumer Drones Series) 调参软件，使用 DJI 账号登录并进入主界面。</cmd>
+      </step>
+      <step>
+        <cmd>开启飞行器，并在 20 秒内连接飞行器的 USB-C 接口与电脑。</cmd>
+      </step>
+      <step>
+        <cmd>在 DJI Assistant
+ 2 (Consumer Drones Series) 调参软件界面点击“DJI Mavic 3”，然后点击固件升级按钮。</cmd>
+      </step>
+      <step>
+        <cmd>选择并确认需要升级的固件版本。</cmd>
+      </step>
+      <step>
+        <cmd>DJI Assistant 2 (Consumer Drones Series) 调参软件将自行下载并升级固件。</cmd>
+      </step>
+      <step>
+        <cmd>升级完成后，飞行器将自动重启。</cmd>
+      </step>
+    </steps>
+    <result>
+      <p>遥控器升级步骤如下：</p>
+      <ol>
+        <li>启动 DJI Assistant
+ 2 (Consumer Drones Series) 调参软件，使用 DJI 账号登录并进入主界面。</li>
+        <li>开启遥控器，连接遥控器的 USB-C 接口与电脑。</li>
+        <li>在 DJI Assistant
+ 2 (Consumer Drones Series) 调参软件界面点击“DJI Mavic 3 遥控器”，然后点击固件升级按钮。</li>
+        <li>选择并确认需要升级的固件版本。</li>
+        <li>DJI Assistant 2 (Consumer Drones Series) 调参软件将自行下载并升级固件。</li>
+        <li>
+          <table>
+            <tgroup cols="1" colsep="1" rowsep="1">
+              <colspec colname="c1" align="left" />
+              <tbody>
+                <row>
+                  <entry colname="c1">
+                    <fig>
+                      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic83_image008.png" />
+                    </fig>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+ 等待升级完成即可。</li>
+      </ol>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic83_image010.png" /> 确保按步骤升级固件，否则可能导致升级失败。</p>
+      <p>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic83_image011.png" />
+        </fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic83_image012.png" />整个升级过程将持续 10 分钟左右。在升级过程中飞行器可能会出现如下状况：云台无力，状态指示灯异常闪烁或飞行器自行重启，以上均属正常现象，请耐心等待固件升级完成。</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic83_image013.png" />确保整个升级过程中个人电脑能够访问互联网。</p>
+      <p>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic83_image014.png" />
+        </fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic83_image015.png" />确保升级时飞行器电量至少在 40% 以上，遥控器电量至少在 30% 以上。升级过程中请勿插拔
+ USB 数据线。</p>
+      <p>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic83_image016.png" />
+        </fig>
+      </p>
+    </result>
+  </taskbody>
+</task>

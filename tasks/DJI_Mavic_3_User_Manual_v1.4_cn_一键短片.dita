@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<task xml:lang="zh-CN" id="A7A34245-B45B4F5-1F15A87D15A4178-93C97F">
+  <title>一键短片</title>
+  <taskbody>
+    <context>
+      <p>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic32_image002.png" />
+        </fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic32_image004.png" />
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic32_image006.png" />
+        </fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic32_image008.png" />
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic32_image010.png" />一键短片包含渐远、冲天、环绕、螺旋、彗星、小行星六个子模式，飞行器可自动按照所选拍摄方式飞行并持续拍摄特定时长，最后自动生成短视频，支持在回放中编辑与快速分享视频。</p>
+      <table>
+        <tgroup cols="1" colsep="1" rowsep="1">
+          <colspec colname="col1" />
+          <tbody>
+            <row>
+              <entry colname="col1"> 渐 远：飞行器边后退边上升，镜头跟随目标拍摄。 </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 冲 天：飞行器飞行到目标上方后垂直上升，镜头俯视目标拍摄。 </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 环 绕：飞行器以拍摄目标为中心，以特定距离环绕飞行拍摄。 </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 螺 旋：飞行器以拍摄目标为中心，螺旋上升拍摄。 </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 彗 星：飞行器以初始地点为起点，椭圆轨迹飞行绕到目标后面，并飞回起点拍摄。使用时确保飞行器周围有足够空间（四周有 30 m 半径、上方有 10 m 以上空间）。 </entry>
+            </row>
+            <row>
+              <entry colname="col1"> 小行星：采用轨迹与全景结合的方式，完成一个从全景到局部的漫游小视频。飞行器以拍摄目标为中心，远离同时上升到一定高度拍摄，并以飞行最高点为全景照片的初始位置拍摄全景照片。最后合成全景图为星球效果，生成视频播放顺序与飞行轨迹相反。使用时确保飞行器周围有足够空间（后方有 40 m、上方有 50 m 及以上空间）。 </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic32_image012.png" />启动一键短片</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>启动飞行器，使飞行器起飞至离地面
+ 2 m 以上。</cmd>
+        <info>
+          <p>
+            <table>
+              <tgroup cols="1" colsep="1" rowsep="1">
+                <colspec colname="c1" align="left" />
+                <tbody>
+                  <row>
+                    <entry colname="c1">
+                      <fig>
+                        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic32_image014.png" />
+                      </fig>
+                    </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>点击拍摄模式图标，选择一键短片并阅读新手指导及注意事项。确保已充分了解并能安全使用该功能。</cmd>
+      </step>
+      <step>
+        <cmd>选择子模式后，在屏幕上选定目标。点击 Start，飞行器将自动飞行并拍摄视频，并在拍摄完成后返回至拍摄起始点。若在取景画面中出现挥手手势（单手举手，手肘高于肩部），也可启动一键短片。</cmd>
+        <info>
+          <p>
+            <table>
+              <tgroup cols="1" colsep="1" rowsep="1">
+                <colspec colname="c1" align="left" />
+                <tbody>
+                  <row>
+                    <entry colname="c1">
+                      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic32_image016.png" />
+                    </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </p>
+        </info>
+      </step>
+      <step>
+        <cmd>点击回放按键 可查看所拍摄的短视频或原视频，并可直接编辑及分享至社交网络。</cmd>
+        <info>
+          <p>退出一键短片</p>
+          <p>
+            <table>
+              <tgroup cols="1" colsep="1" rowsep="1">
+                <colspec colname="c1" align="left" />
+                <tbody>
+                  <row>
+                    <entry colname="c1">
+                      <fig>
+                        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic32_image017.png" />
+                      </fig>
+                    </entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+ 拍摄过程中短按遥控器上的急停按键或点击屏幕按键使飞行器紧急刹车并悬停，再次点击屏幕可继续拍摄。</p>
+          <p>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic32_image019.png" /> 请在开阔无遮挡、无障碍物的环境使用一键短片功能，并时刻注意飞行器路径上是否有人、动物、建筑物等障碍物。飞行器检测到障碍物将提前减速并刹车悬停，不会绕行。</p>
+          <p>
+            <fig>
+              <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic32_image020.png" />
+            </fig>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic32_image021.png" />
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic32_image022.png" />始终注意来自飞行器四周的物体并通过手动操作来避免事故（如碰撞）及对飞行器的遮挡。在以下场景下视觉系统无法正常工作，不建议使用一键短片：</p>
+        </info>
+        <substeps>
+          <substep>
+            <cmd>当被拍摄物体被长时间遮挡或位于视线外时；</cmd>
+          </substep>
+          <substep>
+            <cmd>当被拍摄物体与飞行器距离超过
+ 50 m 时；</cmd>
+          </substep>
+          <substep>
+            <cmd>当被拍摄物体与周围的环境颜色或图案非常相近时；</cmd>
+          </substep>
+          <substep>
+            <cmd>当被拍摄物体位于空中时；</cmd>
+          </substep>
+          <substep>
+            <cmd>当被拍摄物体以较快速度移动时；</cmd>
+          </substep>
+          <substep>
+            <cmd>在特别暗（光照小于 300 lux）或者特别亮（光照大于 10,000 lux）的环境。</cmd>
+          </substep>
+        </substeps>
+      </step>
+    </steps>
+    <result>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic32_image021.png" />请不要在靠近建筑物、有遮挡等 GNSS
+ 信号不佳的地点使用一键短片，否则可能导致飞行器飞行轨迹不稳定等意外情况发生。</p>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic32_image017.png" />
+                  </fig>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic32_image023.png" />用户在使用一键短片功能时，请务必遵守当地的法律法规对隐私权的规定。</p>
+      <p>高级辅助飞行系统 5.0（APAS 5.0）</p>
+      <p>在普通挡和平稳挡可以使用高级辅助飞行系统（Advanced Pilot Assistance Systems,
+ APAS）。当用户往任意方向打杆飞行时，飞行器将根据用户的操作和周围环境规划绕行轨迹，从而使飞行器轻松绕开障碍物，获得更流畅的飞行体验和流畅的拍摄画面。</p>
+      <p>Mavic 3 支持全向 APAS，用户保持任意方向打杆，可以实现多方向绕行。此时如果用户叠加其它杆量，则绕行和杆量会同时作用。若用户向前打杆时同时叠加航向杆量，则飞行器表现为协调转弯。</p>
+      <p>打杆绕行过程中可以暂停（短按遥控器急停键），飞行器将悬停 3 s。</p>
+      <p>在 DJI Fly App 相机界面，进入系统设置 -&gt; 安全页面，在避障行为中选择绕行，即可开启辅助飞行功能。</p>
+      <p>降落保护</p>
+      <p>当避障行为选择为绕行或刹停时，当用户手动下拉油门杆使飞行器降落，降落保护功能生效。飞行器具体表现为：</p>
+      <ol>
+        <li>若飞行器检测到地面可以降落时，飞行器将直接降落。</li>
+        <li>若飞行器检测到地面不适合降落时，则下降到离地面
+ 0.8 m 时，刹车悬停。若下拉油门持续</li>
+      </ol>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic32_image017.png" />
+                  </fig>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+ 5 s 以上，飞行器将会无避障降落。</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic32_image025.png" /> 请在视觉系统可以正常工作的场景下使用。请勿指示飞行器飞向他人、动物、细小物体（例如树枝或电线等）、透明物体（如玻璃或水等）。</p>
+      <p>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic32_image026.png" />
+        </fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic32_image027.png" />请在具有视觉定位或 GNSS 定位的场景下使用。高级辅助飞行系统在水面上或积雪覆盖区域可能无法正常工作。</p>
+      <p>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic32_image028.png" />
+        </fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic32_image029.png" />在光照条件特别暗（光照小于 300 lux）或特别亮（光照大于 10,000
+ lux）的条件下，请谨慎使用。请留意 DJI Fly 提示栏信息，确保飞行器工作在绕行模式。</p>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic32_image017.png" />
+                  </fig>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+ 飞行数据</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic32_image030.png" />在限远、限高以及限飞区边界附近无法使用高级辅助飞行功能。</p>
+      <p>DJI Mavic 3 飞控具备飞行记录功能，飞行器开启电源以后的所有飞行相关数据都将存放于飞控系统中。开启飞行器，连接遥控器至 DJI Assistant
+ 2 (Consumer Drones Series) 调参软件可读取飞行数据。</p>
+      <p>高速手机快传</p>
+      <p>Mavic 3 飞行器支持通过 Wi-Fi 无线连接移动设备，此时无需连接遥控器（RC-N1），即可通过</p>
+      <p>DJI Fly 以高达 80 MB/s 的传输速度下载飞行器端的照片和视频至移动设备，下载更便捷高速。</p>
+    </result>
+  </taskbody>
+</task>

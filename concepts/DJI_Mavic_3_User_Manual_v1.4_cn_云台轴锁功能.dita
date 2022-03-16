@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept xml:lang="zh-CN" id="A75A3A4D-2453B45-114A87A11525A74-175B21">
+  <title>云台轴锁功能</title>
+  <conbody>
+    <p>
+      <table>
+        <tgroup cols="1" colsep="1" rowsep="1">
+          <colspec colname="c1" align="left" />
+          <tbody>
+            <row>
+              <entry colname="c1">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic45_image002.png" />
+                </fig>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic45_image004.png" />轴锁功能可在飞行器关机时自动将云台三轴锁定在固定的位置，以提供更好的收纳体验。轴锁在飞行器开启时自动解锁，无须用户操作。</p>
+    <p>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic45_image006.png" /> 轴锁的工作环境温度为 -10℃至 40℃。若超过环境温度可能无法解 / 上锁，此时 DJI Fly 将进行提示。如需解锁可手动扭转云台各轴解锁（非必要请勿操作）。</p>
+    <p>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic45_image008.png" />自动上 / 解锁功能可在工作环境温度范围内恢复正常。</p>
+    <p>
+      <fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic45_image004.png" />
+      </fig>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic45_image008.png" />轴锁承受较大外力或冲击时可能被解锁，属正常现象，重新开关机即可恢复。轴锁锁定云台后，各轴可能存在微小晃动，属正常现象。</p>
+    <p>
+      <fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic45_image009.png" />
+      </fig>
+    </p>
+  </conbody>
+</concept>

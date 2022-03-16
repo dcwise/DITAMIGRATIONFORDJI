@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<task xml:lang="zh-CN" id="A7B34D44-15434F5-11158B155A4175F-C4050A">
+  <title>&#x1;	&#x1;</title>
+  <shortdesc>进入多任务中心：在系统桌面时，从屏幕底部边缘向右上方滑动并停留片刻</shortdesc>
+  <taskbody>
+    <context>
+      <p>在非系统桌面时，从屏幕底部边缘向上滑动并停留片刻</p>
+      <p>快捷面板界面</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic55_image015.png" />2 3 4</p>
+      <p>1</p>
+      <p>5</p>
+      <p>6</p>
+      <p>7</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>通知中心</cmd>
+        <info>
+          <p>显示系统通知。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>多任务管理</cmd>
+        <info>
+          <p>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic55_image017.png" />点击 可查看后台应用并快速切换。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>首页</cmd>
+        <info>
+          <p>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic55_image019.png" /> 点击可返回首页。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>系统设置</cmd>
+        <info>
+          <p>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic55_image021.png" /> 点击可进入系统设置菜单。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>快捷方式</cmd>
+        <info>
+          <p>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic55_image023.png" /> ：单击可开启 / 关闭 Wi-Fi 网络。长按可选择或设置需要连接的 Wi-Fi 网络。 <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic55_image025.png" /> ：单击可开启 / 关闭蓝牙连接。长按可进行蓝牙连接设置。</p>
+          <p>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic55_image027.png" /> ：勿扰模式。屏蔽系统消息弹窗，以便专注飞行。 <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic55_image029.png" /> ：屏幕录制。单击开启录屏功能。</p>
+          <p>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic55_image031.png" /> ：截屏。单击后将会返回当前画面进行截屏。 <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic55_image033.png" /> ：移动数据。</p>
+          <p>
+            <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic55_image035.png" />：飞行模式。关闭 Wi-Fi、蓝牙和移动数据功能。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>屏幕亮度调节</cmd>
+        <info>
+          <p>拖动滑动条可调节屏幕亮度。点击 <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic55_image037.png" /> 图标时，进入自动调节屏幕亮度模式，拖动滑动条或点击 <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic55_image039.png" /> 时，切换为手动调节屏幕亮度模式。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>音量调节</cmd>
+      </step>
+    </steps>
+    <result>
+      <p>拖动滑动条可调节媒体音量。点击 <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic55_image041.png" /> 选择静音。</p>
+    </result>
+  </taskbody>
+</task>

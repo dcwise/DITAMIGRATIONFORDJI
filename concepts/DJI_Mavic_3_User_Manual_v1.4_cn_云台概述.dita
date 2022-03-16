@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept xml:lang="zh-CN" id="A7B5A342-415B34F-1F2154A7A15A47A-56E58F">
+  <title>云台概述</title>
+  <shortdesc>三轴稳定云台为相机提供稳定的平台，使得在飞行器高速飞行的状态下，相机也能拍摄出稳定的画面。云台可控角度范围为俯仰 -90°至 +35°。</shortdesc>
+  <conbody>
+    <p>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic43_image002.png" />35°</p>
+    <p>0°</p>
+    <p>通过遥控器的云台俯仰控制拨轮和 DJI Fly App 可调整俯仰角度。在 DJI Fly App 相机界面长按屏幕直至出现云台角度控制条，通过上、下拖曳控制条可调整云台俯仰角度。</p>
+  </conbody>
+</concept>

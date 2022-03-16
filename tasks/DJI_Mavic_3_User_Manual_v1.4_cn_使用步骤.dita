@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<task xml:lang="zh-CN" id="ABAD424B-43B41F2-154A87D125717AF-2DFB76">
+  <title>使用步骤</title>
+  <shortdesc>方法一（移动设备未连接遥控器）</shortdesc>
+  <taskbody>
+    <context>
+    </context>
+    <steps>
+      <step>
+        <cmd>开启飞行器电源，待飞行器系统自检完成。</cmd>
+      </step>
+      <step>
+        <cmd>开启移动设备蓝牙及 Wi-Fi 功能，打开 DJI Fly，首页将弹窗提示可连接的飞行器型号列表。</cmd>
+      </step>
+      <step>
+        <cmd>点击连接，连接成功后即可访问飞行器相册，并实现文件高速下载。</cmd>
+      </step>
+    </steps>
+    <result>
+      <p>方法二（移动设备已连接遥控器）</p>
+      <ol>
+        <li>确保飞行器通过遥控器与移动设备连接，且飞行器未启动电机。</li>
+        <li>开启移动设备蓝牙及 Wi-Fi 功能。</li>
+        <li>
+          <table>
+            <tgroup cols="1" colsep="1" rowsep="1">
+              <colspec colname="c1" align="left" />
+              <tbody>
+                <row>
+                  <entry colname="c1">
+                    <fig>
+                      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic33_image001.png" />
+                    </fig>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+ 打开 DJI Fly 并进入回放，点击右上角 ，即可访问飞行器相册，并实现文件高速下载。</li>
+      </ol>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic33_image003.png" /> DJI RC Pro 不支持快传功能。</p>
+      <p>
+        <fig>
+          <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic33_image004.png" />
+        </fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic33_image005.png" />法规允许的国家和地区，使用支持 5.8 GHz 频段 Wi-Fi 连接的设备，若设备支持 Wi-Fi 6，并且拍摄素材存储在机身内部，在无干扰、无遮挡环境可达最大下载速率。若当地法规不允许使用 5.8
+ GHz 频段（如日本），或者用户使用的手机不支持 5.8 GHz 频段时，手机快传会采用 2.4 GHz 频段，此时的最高下载速度为 10 MB/s。</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic33_image006.png" />使用快传功能前，请确保移动设备已打开蓝牙及 Wi-Fi 功能，并开启定位服务。</p>
+      <p>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic33_image007.png" />使用手机快传功能时，无需在移动设备的设置页面输入
+ Wi-Fi 密码进行连接。直接打开 DJI Fly App</p>
+      <p>即可看到提示。</p>
+      <p>
+        <table>
+          <tgroup cols="1" colsep="1" rowsep="1">
+            <colspec colname="c1" align="left" />
+            <tbody>
+              <row>
+                <entry colname="c1">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic33_image001.png" />
+                  </fig>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic33_image008.png" />请在无干扰无遮挡的环境下使用快传功能，远离无线路由器、蓝牙音箱或耳机等干扰源。</p>
+      <p>螺旋桨</p>
+      <p>DJI Mavic 3 使用降噪快拆螺旋桨。带标记和不带标记的螺旋桨分别指示了不同的旋转方向，需严格按照指示，安装不同的螺旋桨至相应的位置。</p>
+    </result>
+  </taskbody>
+</task>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept xml:lang="zh-CN" id="ABA3AD44-15B453B-4F51F15A8C11525-A7475A">
+  <title>视觉与红外传感系统</title>
+  <shortdesc>DJI Mavic 3 配备上、下双目视觉系统，水平全向（前、后、侧）视觉系统以及底部红外传感系统， 为飞行器提供定位及全向环境感知能力。</shortdesc>
+  <conbody>
+    <p>上、下视双目视觉系统分别位于机身上方和机底，分别由两个摄像头组成。水平全向视觉系统位于机头和机尾，由四个摄像头组成。视觉系统通过图像测距来感知障碍物。</p>
+    <p>底部红外传感器系统分别由一个红外传感器模组（一发一收）组成。红外传感器可以判断障碍物距离，还可以提供飞行器对地高度参考，配合下视双目系统计算飞行器位置信息。</p>
+    <p>DJI Mavic 3 配备下视双补光灯，在光线不足时开启，可辅助下视视觉系统工作。</p>
+    <p>水平全向视觉系统</p>
+    <p>
+      <fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic25_image002.png" />
+      </fig>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic25_image004.png" />底部红外传感系统</p>
+    <p>补光灯</p>
+    <p>下视视觉系统</p>
+  </conbody>
+</concept>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept xml:lang="zh-CN" id="A45AAD42-15B43BF-51F258712517DE4-1AEA5C">
+  <title>前言</title>
+  <shortdesc>
+    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic1_image002.png" />用户手册 2022.01</shortdesc>
+  <prolog>
+    <author type="contributor">RAYFAN</author>
+    <critdates>
+      <!--RAYFAN-->
+      <revised modified="2022-03-16"/>
+    </critdates>
+    <metadata>
+      <data name="产品类别" value="Everest "/>
+      <data name="产品版本" value=""/>
+      <data name="手册类型" value="规格书"/>
+      <data name="手册秘级" value="秘密"/>
+    </metadata>
+  </prolog>
+  <conbody>
+  
+   
+    <p>修订日志</p>
+    <table>
+      <tgroup cols="3" colsep="1" rowsep="1">
+        <colspec colname="col1" />
+        <colspec colname="col2" />
+        <colspec colname="col3" />
+        <tbody>
+          <row>
+            <entry colname="col1"> 版本 </entry>
+            <entry colname="col2"> 日期 </entry>
+            <entry colname="col3"> 修订内容 </entry>
+          </row>
+          <row>
+            <entry colname="col1"> v1.2 </entry>
+            <entry colname="col2" translate="no"> 2021.12 </entry>
+            <entry colname="col3"> 增加智能飞行功能 </entry>
+          </row>
+          <row>
+            <entry colname="col1"> v1.4 </entry>
+            <entry colname="col2" translate="no"> 2022.1 </entry>
+            <entry colname="col3"> 更新高级返航逻辑，增加一键短片、高速手机快传、U 盘模式、增强图传等 </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </conbody>
+</concept>

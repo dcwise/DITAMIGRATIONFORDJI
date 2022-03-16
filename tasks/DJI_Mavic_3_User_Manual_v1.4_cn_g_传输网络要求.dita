@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<task xml:lang="zh-CN" id="A7B5A3A4-A4145B5-F251D557475AEDF-CD03E4">
+  <title>G 传输网络要求</title>
+  <shortdesc>为了保证清晰流畅的图传体验，确保 4G 网速在 5 Mbps 以上。</shortdesc>
+  <taskbody>
+    <context>
+      <p>4G 网速由用户和飞行器所在位置的
+ 4G 信号强度以及对应基站的网络拥塞程度决定，实际传输体验和当地的 4G 网络信号情况密切有关。4G 网络信号情况包含飞机端和地面端两个点的网络情况，而地面网速与空中网速有所差别，其中任何一个点的信号弱、无信号或者网络繁忙拥塞都可能导致 4G 传输的体验下降，出现诸如图传卡顿、操控延迟大、图传丢失、失控等现象。</p>
+      <p>因此在使用增强图传时 :</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>务必选择遥控器或手机上
+ 4G 信号接近满格的地方操作，以获得更好的增强图传体验。</cmd>
+      </step>
+      <step>
+        <cmd>在 O3+ 信号断开后，完全依赖 4G 飞行可能存在一定的延迟和卡顿，务必谨慎飞行。</cmd>
+      </step>
+      <step>
+        <cmd>在 O3+ 图传信号差或者断开后，请保持合适的高度飞行。如在空旷地带，尽量保持在
+ 120</cmd>
+        <info>
+          <p>米以下飞行，以获得比较好的 4G 信号。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>如果在城市高楼林立环境，请设置好合适的返航高度（高于楼高）。</cmd>
+      </step>
+      <step>
+        <cmd>如果是高楼林立的限飞区，务必打开高级辅助飞行功能，谨慎飞行。</cmd>
+      </step>
+      <step>
+        <cmd>不建议超视距飞行，尤其是夜晚。</cmd>
+      </step>
+      <step>
+        <cmd>当 DJI Fly 上提示 4G 图传信号弱时，请务必谨慎飞行。</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

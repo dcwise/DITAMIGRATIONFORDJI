@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<task xml:lang="zh-CN" id="A7BA4D24-5B53B4F-511154A87F15271-758185">
+  <title>RC-N1 遥控器</title>
+  <taskbody>
+    <context>
+      <p>
+        <table>
+          <tgroup cols="2" colsep="1" rowsep="1">
+            <colspec colname="col2" align="left" />
+            <colspec colname="col4" align="left" />
+            <tbody>
+              <row>
+                <entry morerows="2" align="left" colname="col2">
+                  <fig>
+                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic15_image003.png" />
+                  </fig>
+                </entry>
+                <entry colname="col4" />
+              </row>
+              <row>
+                <entry align="left" colname="col4">
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic15_image004.png" />
+                </entry>
+              </row>
+              <row>
+                <entry colname="col4" />
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </p>
+    </context>
+    <steps>
+      <step>
+        <cmd>电源按键</cmd>
+        <info>
+          <p>短按查看遥控器电量；短按一次，再长按</p>
+          <p>2 秒开启 / 关闭遥控器电源。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>飞行挡位切换开关</cmd>
+        <info>
+          <p>用于切换运动（Sport）、普通（Normal） 与平稳（Cine）模式。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>急停 / 智能返航按键</cmd>
+        <info>
+          <p>短按使飞行器紧急刹车并原地悬停（GNSS 或视觉系统生效时）。长按启动智能返航， 再短按一次取消智能返航。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>电量指示灯</cmd>
+        <info>
+          <p>用于指示当前电量。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>摇杆</cmd>
+        <info>
+          <p>可拆卸设计的摇杆，便于收纳。DJI Fly
+ App 中可设置摇杆操控方式。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>自定义按键</cmd>
+        <info>
+          <p>可通过 DJI Fly App 设置该按键功能。默认单击控制补光灯、双击使云台回中或朝下。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>拍照 / 录像切换按键</cmd>
+        <info>
+          <p>短按一次切换拍照或录像模式。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>遥控器转接线</cmd>
+        <info>
+          <p>分别连接移动设备接口与遥控器图传接口， 实现图像及数据传输。可根据移动设备接 口类型自行更换。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>移动设备支架</cmd>
+        <info>
+          <p>用于放置移动设备。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>天线</cmd>
+        <info>
+          <p>传输飞行器控制和图像无线信号。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>充电 / 调参接口（USB-C）</cmd>
+        <info>
+          <p>用于遥控器充电或连接遥控器至电脑。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>摇杆收纳槽</cmd>
+        <info>
+          <p>用于放置摇杆。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>云台俯仰控制拨轮</cmd>
+        <info>
+          <p>用于调整云台俯仰角度。按住自定义按键并转动云台俯仰控制拨轮可在探索模式下调节变焦。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>拍摄按键</cmd>
+        <info>
+          <p>短按拍照或录像。</p>
+        </info>
+      </step>
+      <step>
+        <cmd>移动设备凹槽</cmd>
+      </step>
+    </steps>
+    <result>
+      <p>用于固定移动设备。</p>
+    </result>
+  </taskbody>
+</task>

@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept xml:lang="zh-CN" id="A75A3A4A-4245B45-3B45F154A87B1D5-54175A">
+  <title>/	/ &#x1; &#x1; &#x1;</title>
+  <conbody>
+    <p>
+      <fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic59_image002.png" />
+      </fig>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic59_image004.png" />
+      <fig>
+        <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic59_image005.png" />
+      </fig>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic59_image007.png" />左 右</p>
+    <p>左转 右转</p>
+    <p>遥控器出厂时默认操控模式为美国手 (Mode 2)，本手册以美国手 (Mode 2) 为例说明遥控器的操控方式。</p>
+    <fig>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic59_image008.png" />
+    </fig>
+    <p>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic59_image010.png" /> 摇杆回中 / 中位：遥控器的摇杆处于中间位置。摇杆杆量：遥控器摇杆偏离摇杆中位的偏移量。</p>
+    <fig>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic59_image008.png" />
+    </fig>
+    <p>
+      <table>
+        <tgroup cols="1" colsep="1" rowsep="1">
+          <colspec colname="c1" align="left" />
+          <tbody>
+            <row>
+              <entry colname="c1">
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic59_image012.png" />
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table> </p>
+    <table>
+      <tgroup cols="3" colsep="1" rowsep="1">
+        <colspec colname="col1" />
+        <colspec colname="col2" />
+        <colspec colname="col3" />
+        <tbody>
+          <row>
+            <entry colname="col1"> 遥控器（美国手） </entry>
+            <entry colname="col2"> 飞行器（ 为机头朝向） </entry>
+            <entry colname="col3"> 控制方式 </entry>
+          </row>
+          <row>
+            <entry colname="col1">
+              <fig>
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic59_image014.png" />
+              </fig>
+            </entry>
+            <entry colname="col2">
+              <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic59_image016.png" />
+            </entry>
+            <entry colname="col3">
+              <p>油门摇杆用于控制飞行器升降。</p>
+              <p>往上推杆，飞行器升高。往下拉杆，飞行器降低。中位时飞行器的高度保持不变（自动定高）。</p>
+              <p>飞行器起飞时，必须将油门杆往上推过中位， 飞行器才能离地起飞（请缓慢推杆，以防飞行器突然急速上冲）。</p>
+            </entry>
+          </row>
+          <row>
+            <entry colname="col1">
+              <fig>
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic59_image018.png" />
+              </fig>
+            </entry>
+            <entry colname="col2">
+              <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic59_image020.png" />
+            </entry>
+            <entry colname="col3">
+              <p>偏航杆用于控制飞行器航向。</p>
+              <p>往左打杆，飞行器逆时针旋转。往右打杆，飞行器顺时针旋转。中位时旋转角速度为零，飞行器不旋转。</p>
+              <p>摇杆杆量对应飞行器旋转的角速度，杆量越大， 旋转的角速度越大。</p>
+            </entry>
+          </row>
+          <row>
+            <entry colname="col1">
+              <fig>
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic59_image022.png" />
+              </fig>
+            </entry>
+            <entry colname="col2">
+              <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic59_image024.png" />
+            </entry>
+            <entry colname="col3">
+              <p>俯仰杆用于控制飞行器前后飞行。</p>
+              <p>往上推杆，飞行器向前倾斜，并向前飞行。往下拉杆，飞行器向后倾斜，并向后飞行。中位时飞行器的前后方向保持水平。</p>
+              <p>摇杆杆量对应飞行器前后倾斜的角度，杆量越大，倾斜的角度越大，飞行的速度也越快。</p>
+            </entry>
+          </row>
+          <row>
+            <entry colname="col1">
+              <fig>
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic59_image026.png" />
+              </fig>
+            </entry>
+            <entry colname="col2">
+              <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic59_image028.png" />
+            </entry>
+            <entry colname="col3">
+              <p>横滚杆用于控制飞行器左右飞行。</p>
+              <p>往左打杆，飞行器向左倾斜，并向左飞行。往右打杆，飞行器向右倾斜，并向右飞行。中位时飞行器的左右方向保持水平。</p>
+              <p>摇杆杆量对应飞行器左右倾斜的角度，杆量越大，倾斜的角度越大，飞行的速度也越快。</p>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <p>飞行挡位切换开关</p>
+    <p>图示</p>
+    <p>对应飞行挡位</p>
+    <p>Sport</p>
+    <p>运动挡</p>
+    <p>Normal</p>
+    <p>普通挡</p>
+    <p>Cine</p>
+    <p>平稳挡</p>
+    <p>
+      <table>
+        <tgroup cols="1" colsep="1" rowsep="1">
+          <colspec colname="c1" align="left" />
+          <tbody>
+            <row>
+              <entry colname="c1">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic59_image030.png" />
+                </fig>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table> 拨动该开关以切换控制飞行器的飞行模式。</p>
+    <p>急停 / 智能返航按键</p>
+    <p>短按按键使飞行器紧急刹车并悬停；当飞行器在智能返航、自动降落时，短按按键退出当前功能。</p>
+    <p>长按按键直至蜂鸣器发出“嘀嘀”音启动智能返航，飞行器将返航至最新记录的返航点。返航过程中，短按一次此按键将结束返航。</p>
+    <p>
+      <table>
+        <tgroup cols="1" colsep="1" rowsep="1">
+          <colspec colname="c1" align="left" />
+          <tbody>
+            <row>
+              <entry colname="c1">
+                <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic59_image032.png" />
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <p>自定义功能按键</p>
+    <p>在DJI Fly 操控页面可自定义该按键功能，包括云台回中/ 朝下、补光灯开关、地图/FPV 切换功能。</p>
+    <p>
+      <table>
+        <tgroup cols="1" colsep="1" rowsep="1">
+          <colspec colname="c1" align="left" />
+          <tbody>
+            <row>
+              <entry colname="c1">
+                <fig>
+                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic59_image034.png" />
+                </fig>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
+    <p>遥控器提示音</p>
+    <p>返航提示音不可取消。低电量（剩余 6% 至 15%）报警提示音可通过短按电源按键取消，当电量低于 5% 时报警提示音不可取消。</p>
+    <p>遥控器通信范围</p>
+    <p>操控飞行器时，应及时调整遥控器与飞行器之间的方位与距离，确保飞行器总是位于最佳通 信范围内。</p>
+    <p>信号弱</p>
+    <p>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic59_image036.png" />
+    </p>
+    <p>信号弱</p>
+    <fig>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic59_image038.png" />
+    </fig>
+    <p>信号强</p>
+    <p>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic59_image040.png" />
+    </p>
+    <p>
+      <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic59_image042.png" />最佳通信范围</p>
+  </conbody>
+</concept>

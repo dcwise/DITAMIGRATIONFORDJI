@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept xml:lang="zh-CN" id="ABA241B3-451F21A-8795A7415A9AEF9-3309E3">
+  <title>空中停机</title>
+  <shortdesc>空中停机将造成飞行器坠毁。默认仅当飞行器在空中检测到严重故障（如：空中受到撞击、飞行器不受控制急速上升或下降、飞行器姿态不受控制连续翻滚、电机堵转等）时，执行掰杆动作才可以停止电机。可在 DJI Fly 中更改设置。</shortdesc>
+  <conbody>
+    <p>基础飞行</p>
+  </conbody>
+</concept>
