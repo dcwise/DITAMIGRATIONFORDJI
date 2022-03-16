@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
 <task xml:lang="zh-CN" id="A7BA4D24-5B53B4F-511154A87F15271-758185">
   <title>RC-N1 遥控器</title>
   <taskbody>
@@ -12,14 +12,16 @@
               <row>
                 <entry morerows="2" align="left" colname="col2">
                   <fig>
-                    <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic15_image003.png" />
+                  
+                    <image id="image_crc_hhc_xsb"
+                      href="DJI_Mavic_3_User_Manual_v1_topic15_image003.png"/>
                   </fig>
                 </entry>
                 <entry colname="col4" />
               </row>
               <row>
-                <entry align="left" colname="col4">
-                  <image href="../graphics/DJI_Mavic_3_User_Manual_v1_topic15_image004.png" />
+                <entry align="left" colname="col4"><image
+                    href="DJI_Mavic_3_User_Manual_v1_topic15_image004.png" id="image_zyn_qhc_xsb"/>
                 </entry>
               </row>
               <row>
