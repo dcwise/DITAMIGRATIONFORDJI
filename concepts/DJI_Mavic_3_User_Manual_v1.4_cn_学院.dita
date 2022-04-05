@@ -7,8 +7,12 @@
   <shortdesc>点击页面右上角进入学院，可在此选择产品类型，查看相应产品的功能教程、玩法攻略、飞行安全和说明书。</shortdesc>
   <conbody>
     
-    <p>The pin multiplexing choices for all pads are shown in:</p><ul><li><xref href="#_10.1.3_Functional_Description/_bookmark97" id="xref_vyx_bht_ctb">Table 10-1
-        </xref>(GPIO_0 – GPIO_7)</li><li><xref href="#_10.1.3_Functional_Description/_bookmark98">Table 10-2 </xref>(GPIO_8 – GPIO_15)</li><li><xref href="#_10.1.3_Functional_Description/_bookmark99">Table 10-3 </xref>(GPIO_16 – GPIO_23)</li><li><xref href="#_10.1.3_Functional_Description/_bookmark100">Table 10-4</xref>(GPIO_24 – GPIO_31)</li><li><xref href="#_10.1.3_Functional_Description/_bookmark101">Table 10-5 </xref>(MSIO_0 – MSIO_4)</li></ul><ul><li><xref href="#_10.1.3_Functional_Description/_bookmark102">Table 10-6 </xref>(AON_GPIO_0 –
+    <p>The pin multiplexing choices for all pads are shown in:</p>
+    <ul>
+      <li><xref
+          href="#A75A4AD4-415B453-B11F154A780525A-74175C/bookmark97"/>Table 10-1
+        (GPIO_0 – GPIO_7)</li>
+      <li><xref href="#_10.1.3_Functional_Description/_bookmark98">Table 10-2 </xref>(GPIO_8 – GPIO_15)</li><li><xref href="#_10.1.3_Functional_Description/_bookmark99">Table 10-3 </xref>(GPIO_16 – GPIO_23)</li><li><xref href="#_10.1.3_Functional_Description/_bookmark100">Table 10-4</xref>(GPIO_24 – GPIO_31)</li><li><xref href="#_10.1.3_Functional_Description/_bookmark101">Table 10-5 </xref>(MSIO_0 – MSIO_4)</li></ul><ul><li><xref href="#_10.1.3_Functional_Description/_bookmark102">Table 10-6 </xref>(AON_GPIO_0 –
         AON_GPIO_7) Basically,<ul>
           <li>GPIO_0 - GPIO_15 are supplied by VDDIO_1</li>
           <li>GPIO_16 - GPIO_31 are supplied by VDDIO_0</li>
